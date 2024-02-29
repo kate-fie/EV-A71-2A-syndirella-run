@@ -25,7 +25,7 @@ echo "Running script ${0} as $USER in $HOST which runs $PRETTY_NAME"
 
 source /data/xchem-fragalysis/kfieseler/.bashrc
 
-cd /data/xchem-fragalysis/kfieseler/D68EV3CPROA/elabs
+cd /data/xchem-fragalysis/kfieseler/D68EV3CPROA/elabs/rdkit_place/2_step
 
 pwd;
 tar -czvf batch_8 batch_9 batch_10 batch_11 batch_12 batch_13 batch_14 batch_8-14.tar.gz
