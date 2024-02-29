@@ -1,0 +1,4 @@
+,smiles,reactants,reaction_names,num_steps,hits,compound_set,batch
+130,Cc1cc(C)c(OCC(=O)N(C)C)cc1NC(=O)C1CCCO1,"[('Nc1cc(O)c(C)cc1C', 'O=C(O)C1CCCO1'), ('Cc1cc(C)c(NC(=O)C2CCCO2)cc1O', 'CN(C)C(=O)CCl')]","['Amidation', 'Williamson_ether_synthesis']",2,x0922 x0416,x0922-x0416-merge-1-9,13
+131,CN(C)C(=O)COc1cncc(NC(=O)C2CCCO2)c1,"[('Nc1cncc(O)c1', 'O=C(O)C1CCCO1'), ('O=C(Nc1cncc(O)c1)C1CCCO1', 'CN(C)C(=O)CCl')]","['Amidation', 'Williamson_ether_synthesis']",2,x0922 x0416,x0922-x0416-merge-1-10,13
+132,CN(C)C(=O)COc1cc(NC(=O)C2CCCO2)ccn1,"[('Nc1ccnc(O)c1', 'O=C(O)C1CCCO1'), ('O=C(Nc1ccnc(O)c1)C1CCCO1', 'CN(C)C(=O)CCl')]","['Amidation', 'Williamson_ether_synthesis']",2,x0922 x0416,x0922-x0416-merge-1-11,13

@@ -11,8 +11,18 @@ parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(parent_dir)
 import argparse
 from typing import (List, Dict, Tuple, Union, Any)
+import os
+import importlib.util
 
-from syndirella.pipeline import run_pipeline
+# Get the base path and construct the full path to the module
+syndirella_path = os.environ['SYNDIRELLA_BASE_PATH']
+pipeline_module_path = os.path.join(syndirella_path, 'syndirella/pipeline.py')
+
+# Load the module specified by the path
+spec = importlib.util.spec_from_file_location("syndirella.pipeline", pipeline_module_path)
+pipeline = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(pipeline)
+
 
 def config_parser():
     parser = argparse.ArgumentParser(description="Run the job with different variable changes.")
@@ -32,13 +42,13 @@ def main():
     output_dir: str = settings['output']
     template = settings['template']
     hits = settings['hits']
-    batch_num = 100
+    batch_num = 10000
     additional_info = ['compound_set']
     manual_routes = True
 
     # Run pipeline
     print('Running pipeline...')
-    run_pipeline(input_csv_path,
+    pipeline.run_pipeline(input_csv_path,
                  output_dir,
                  template,
                  hits,
