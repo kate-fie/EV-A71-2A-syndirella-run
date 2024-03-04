@@ -6,4 +6,8 @@
 Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 
 ### Status:
+**2024-03-04 13:30:** Running [batch0](batches/batch0.csv) again with relaxed apo template.
+
 Currently running [batch0](batches/batch0.csv) as of 2024-02-29 19:00 with 9 base compounds and placing the top 10K.
+➡️ Placements didn't work since template I was using still contained the ligand...
+

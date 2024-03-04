@@ -31,7 +31,7 @@ cd /data/xchem-fragalysis/kfieseler/syndirella
 pwd;
 export INPUT="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/batches/batch0.csv"
 export OUTPUT_DIR="/data/xchem-fragalysis/kfieseler/A71EV2A_run2/batch0";
-export TEMPLATE="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/fragments/x0310_relaxed.pdb";
+export TEMPLATE="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/fragments/x0310_relaxed_apo.pdb";
 export HITS="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/fragments/clean_hits.sdf";
 export SYNDIRELLA_BASE_PATH="/data/xchem-fragalysis/kfieseler/syndirella";
 
