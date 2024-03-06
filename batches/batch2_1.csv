@@ -1,0 +1,6 @@
+,smiles,reactants,reaction_names,num_steps,hits,compound_set,batch
+25,Cc1ccc(NC(=O)CC#N)cc1OCC(=O)N1CCOCC1,"[('Nc1cc(O)c(C)cc1', 'N#CCC(=O)O'), ('Cc1ccc(NC(=O)CC#N)cc1O', 'O=C(CCl)N1CCOCC1')]","['Amidation', 'Williamson_ether_synthesis']",2,x0310A x0739A,x0310-x0739-merge-2-8,2
+26,Cc1cc(C)c(OCC(=O)N2CCOCC2)cc1NC(=O)CC#N,"[('Nc1cc(O)c(C)cc1C', 'N#CCC(=O)O'), ('Cc1cc(C)c(NC(=O)CC#N)cc1O', 'O=C(CCl)N1CCOCC1')]","['Amidation', 'Williamson_ether_synthesis']",2,x0310A x0739A,x0310-x0739-merge-2-9,2
+27,N#CCC(=O)Nc1cncc(OCC(=O)N2CCOCC2)c1,"[('Nc1cncc(O)c1', 'N#CCC(=O)O'), ('N#CCC(=O)Nc1cncc(O)c1', 'O=C(CCl)N1CCOCC1')]","['Amidation', 'Williamson_ether_synthesis']",2,x0310A x0739A,x0310-x0739-merge-2-10,2
+28,N#CCC(=O)Nc1ccnc(OCC(=O)N2CCOCC2)c1,"[('Nc1ccnc(O)c1', 'N#CCC(=O)O'), ('N#CCC(=O)Nc1ccnc(O)c1', 'O=C(CCl)N1CCOCC1')]","['Amidation', 'Williamson_ether_synthesis']",2,x0310A x0739A,x0310-x0739-merge-2-11,2
+29,CN(C)C(=O)c1ccc(F)cc1OC1CCN(C)C1=O,"[('O=C(c1ccc(F)cc1Cl)N(C)C', 'O=C1C(O)CCN1C')]",['Nucleophilic_substitution'],1,x0528A x0450A,x0528-x0450-merge-1-1,2
