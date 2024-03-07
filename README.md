@@ -11,20 +11,25 @@ Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 1. [x] batch0(760) --> DONE
 2. [x] batch1(820) --> DONE
    3. Low success rate for 8/10 base compounds.
-3. [x] batch2(819) --> partially done, killed. 
+3. [x] batch2(819) --> partially done, killed. restarted.
    4. Placed 5/10 base compounds.
-4. [ ] batch3(821) 
+4. [x] batch3(821) --> partially done
+   5. Placed 8/10 base compounds.
 5. [x] batch4(822) --> DONE
-6. [ ] batch5(829) 
-7. [x] batch9(814) --> stopped early
+6. [x] batch5(829) --> DONE
+7. [x] batch9(814) --> stopped early, restarted.
 8. [ ] batch10(848)
-9. [ ] batch11(816)  
+9. [x] batch11(816) --> partially done
+   10. Placed 2/10 base compounds. Need to restart...
 10. [ ] batch12(849)
 11. [ ] batch13(850)
-12. [ ] batch2_1()
-    13. This batch contains 5 base compounds that were not run in batch2.
-13. [ ] batch9_1()
-    14. This batch contains 9 base compounds that were not run in batch9.
+12. [x] batch2_1(851) --> killed early, need to restart...
+    13. This batch contains 5 base compounds that were not run in batch2 (indicies 5:10).
+13. [ ] batch9_1(853)
+    14. This batch contains 9 base compounds that were not run in batch9 (indicies 0:9).
+15. [ ] batch11_1()
+    16. This batch contains 8 base compounds that were not run in batch11 (indicies ).
+17. [ ] batch2_1()
 
 with relaxed apo template on iris-gpu. 
 Note: Tried to keep running rest of batches but got `429 Client Error: Too Many Requests`, need to change API
@@ -44,3 +49,11 @@ Currently running [batch0](batches/batch0.csv) as of 2024-02-29 19:00 with 9 bas
     - FQGGXMVTNBDGEE-UHFFFAOYSA-N 
   - IGUPJTYXYZPOEC-UHFFFAOYSA-N N#CCC(=O)Nc1cccc(NC(=O)CO)c1:
     - Distance errors to fragments too far.
+  
+### Problem bases:
+- batch4:
+  - CC(=O)Nc1c(CNS(C)(=O)=O)ccc(OCC(=O)N(C)C)c1Br:
+    - All products of 2nd step filtered out before 3rd step.
+  - CC(=O)Nc1cccc(OCC(=O)N(C)C)c1CNS(C)(=O)=O
+    - Step 2 in this route using Williamson_ether_synthesis
+An error occurred in the route elaboration: The reactants are the same in reaction Williamson_ether_synthesis in mol CC(=O)Nc1cccc(O)c1Br and CN(C)C(=O)CCl.
