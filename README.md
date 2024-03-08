@@ -13,8 +13,8 @@ Then edited with [prepare_template](notebooks/prepare_template.ipynb).
    3. Low success rate for 8/10 base compounds.
 3. [x] batch2(819) --> partially done, killed. restarted.
    4. Placed 5/10 base compounds.
-4. [x] batch3(821) --> partially done
-   5. Placed 8/10 base compounds.
+4. [x] batch3(821) --> DONE
+   5. Placed 8/10 base compounds. Errors for 2. 
 5. [x] batch4(822) --> DONE
 6. [x] batch5(829) --> DONE
 7. [x] batch9(814) --> stopped early, restarted.
@@ -31,19 +31,24 @@ Then edited with [prepare_template](notebooks/prepare_template.ipynb).
     16. This batch contains 8 base compounds that were not run in batch11 (indicies 0:8).
 17. [x] batch2_1(903) --> killed early,
     18. Still killed at same point.. No clear reason why... Just says killed in .err file. 
-19. [ ] batch2_2()
+19. [x] batch2_2(927)
     20. This batch contains 4 base compounds that were not run in batch2 (indicies 6:10).
     21. Does not include problem base of Cc1ccc(NC(=O)CC#N)cc1OCC(=O)N1CCOCC1
+    22. Killed again... 
+    23. /data/xchem-fragalysis/kfieseler/syndirella/syndirella/slipper/slipper_synthesizer/SlipperSynthesizer.py:94: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  self.products = pd.read_csv(f"{self.output_dir}/extra/{csv_name}")
+/data/xchem-fragalysis/kfieseler/syndirella/syndirella/cobblers_workshop/Library.py:217: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(path)
+/data/xchem-fragalysis/kfieseler/syndirella/syndirella/cobblers_workshop/Library.py:217: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(path)
+/data/xchem-fragalysis/kfieseler/syndirella/syndirella/cobblers_workshop/Library.py:247: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(reactant_analogues_path)
+/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/jobs/run_batch2_2.sh: line 48: 29570 Killed                  nice -19 python /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/jobs/run_job.py --input $INPUT --output $OUTPUT_DIR --template $TEMPLATE --hits $HITS
 
 with relaxed apo template on iris-gpu. 
 Note: Tried to keep running rest of batches but got `429 Client Error: Too Many Requests`, need to change API
 queries to add a delay. Also, might not have started to elaborate all base compounds in the batch, but a few due to the 
 `429` error.
-
-**2024-03-04 13:30:** Running [batch0](batches/batch0.csv) again with relaxed apo template. Job 19760 on iris-gpu. 
-
-Currently running [batch0](batches/batch0.csv) as of 2024-02-29 19:00 with 9 base compounds and placing the top 10K.
-➡️ Placements didn't work since template I was using still contained the ligand...
 
 ### Errors:
 
@@ -55,6 +60,9 @@ Currently running [batch0](batches/batch0.csv) as of 2024-02-29 19:00 with 9 bas
     - Distance errors to fragments too far.
   
 ### Problem bases:
+- batch2:
+  - Cc1ccc(NC(=O)CC#N)cc1OCC(=O)N1CCOCC1
+    - Job is just killed early, don't know why
 - batch4:
   - CC(=O)Nc1c(CNS(C)(=O)=O)ccc(OCC(=O)N(C)C)c1Br:
     - All products of 2nd step filtered out before 3rd step.
@@ -80,3 +88,4 @@ Traceback (most recent call last):
   File "/data/xchem-fragalysis/kfieseler/syndirella/syndirella/slipper/slipper_synthesizer/SlipperSynthesizer.py", line 172, in filter_analogues_by_size
     if len(list(self.analogues_dataframes_to_react.values())[0]) > 10000:
 IndexError: list index out of range
+    - 
