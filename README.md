@@ -25,11 +25,15 @@ Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 11. [ ] batch13(850)
 12. [x] batch2_1(851) --> killed early, need to restart...
     13. This batch contains 5 base compounds that were not run in batch2 (indicies 5:10).
-13. [ ] batch9_1(853)
+13. [x] batch9_1(853) --> Placement of 4/9 base compounds. DONE
     14. This batch contains 9 base compounds that were not run in batch9 (indicies 0:9).
-15. [ ] batch11_1()
-    16. This batch contains 8 base compounds that were not run in batch11 (indicies ).
-17. [ ] batch2_1()
+15. [ ] batch11_1(904)
+    16. This batch contains 8 base compounds that were not run in batch11 (indicies 0:8).
+17. [x] batch2_1(903) --> killed early,
+    18. Still killed at same point.. No clear reason why... Just says killed in .err file. 
+19. [ ] batch2_2()
+    20. This batch contains 4 base compounds that were not run in batch2 (indicies 6:10).
+    21. Does not include problem base of Cc1ccc(NC(=O)CC#N)cc1OCC(=O)N1CCOCC1
 
 with relaxed apo template on iris-gpu. 
 Note: Tried to keep running rest of batches but got `429 Client Error: Too Many Requests`, need to change API
@@ -57,3 +61,22 @@ Currently running [batch0](batches/batch0.csv) as of 2024-02-29 19:00 with 9 bas
   - CC(=O)Nc1cccc(OCC(=O)N(C)C)c1CNS(C)(=O)=O
     - Step 2 in this route using Williamson_ether_synthesis
 An error occurred in the route elaboration: The reactants are the same in reaction Williamson_ether_synthesis in mol CC(=O)Nc1cccc(O)c1Br and CN(C)C(=O)CCl.
+- batch9:
+  - Cc1cc(NC(=O)CO)cc(OCC(=O)N(C)C)c1
+  - Cc1cc(NC(=O)CO)cc(OCC(=O)N(C)C)c1
+  - Cc1cnc(OCC(=O)N(C)C)cc1NC(=O)CO
+    - Problem at start of 2nd step of TBS alcohol deprotection...
+    - Might be because no reactants are left after filtering...
+    -An error occurred in the route elaboration: list index out of range
+Traceback (most recent call last):
+  File "/data/xchem-fragalysis/kfieseler/syndirella/syndirella/cobblers_workshop/CobblersWorkshop.py", line 68, in get_final_library
+    slipper.get_products()
+  File "/data/xchem-fragalysis/kfieseler/syndirella/syndirella/slipper/Slipper.py", line 52, in get_products
+    self.products: pd.DataFrame = slipper_synth.get_products()
+  File "/data/xchem-fragalysis/kfieseler/syndirella/syndirella/slipper/slipper_synthesizer/SlipperSynthesizer.py", line 57, in get_products
+    self.filter_analogues()
+  File "/data/xchem-fragalysis/kfieseler/syndirella/syndirella/slipper/slipper_synthesizer/SlipperSynthesizer.py", line 120, in filter_analogues
+    self.filter_analogues_by_size()
+  File "/data/xchem-fragalysis/kfieseler/syndirella/syndirella/slipper/slipper_synthesizer/SlipperSynthesizer.py", line 172, in filter_analogues_by_size
+    if len(list(self.analogues_dataframes_to_react.values())[0]) > 10000:
+IndexError: list index out of range
