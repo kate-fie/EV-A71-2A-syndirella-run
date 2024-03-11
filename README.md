@@ -6,7 +6,12 @@
 Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 
 ### Status:
-**2024-03-06 16:30:** Running 
+**2024-03-11 11:00:** Running 
+
+10. [ ] batch12(849) --> placed 3/10 base compounds. Still running...
+15. [ ] batch11_1(904) --> placed 6/8 base compounds. Still running...
+    16. This batch contains 8 base compounds that were not run in batch11 (indicies 0:8).
+
 
 1. [x] batch0(760) --> DONE
 2. [x] batch1(820) --> DONE
@@ -18,17 +23,14 @@ Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 5. [x] batch4(822) --> DONE
 6. [x] batch5(829) --> DONE
 7. [x] batch9(814) --> stopped early, restarted.
-8. [ ] batch10(848)
+8. [x] batch10(848) --> DONE
 9. [x] batch11(816) --> partially done
    10. Placed 2/10 base compounds. Need to restart...
-10. [ ] batch12(849)
-11. [ ] batch13(850)
+11. [x] batch13(850) --> DONE
 12. [x] batch2_1(851) --> killed early, need to restart...
     13. This batch contains 5 base compounds that were not run in batch2 (indicies 5:10).
 13. [x] batch9_1(853) --> Placement of 4/9 base compounds. DONE
     14. This batch contains 9 base compounds that were not run in batch9 (indicies 0:9).
-15. [ ] batch11_1(904)
-    16. This batch contains 8 base compounds that were not run in batch11 (indicies 0:8).
 17. [x] batch2_1(903) --> killed early,
     18. Still killed at same point.. No clear reason why... Just says killed in .err file. 
 19. [x] batch2_2(927)
