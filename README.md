@@ -6,8 +6,12 @@
 Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 
 ### Status:
-**2024-03-11 11:00:** Running 
+**2024-03-11 13:30:** Running 
 
+8. [ ] batch7_1()
+   9. This batch contains 7 base compounds that were not run in batch7 (indicies 3:10).
+9. [ ] batch6(954)
+11. [ ] batch8(956)
 10. [ ] batch12(849) --> placed 3/10 base compounds. Still running...
 15. [ ] batch11_1(904) --> placed 6/8 base compounds. Still running...
     16. This batch contains 8 base compounds that were not run in batch11 (indicies 0:8).
@@ -22,6 +26,7 @@ Then edited with [prepare_template](notebooks/prepare_template.ipynb).
    5. Placed 8/10 base compounds. Errors for 2. 
 5. [x] batch4(822) --> DONE
 6. [x] batch5(829) --> DONE
+7. [x] batch7(955) --> placed 3/10 base compounds. stopped early...
 7. [x] batch9(814) --> stopped early, restarted.
 8. [x] batch10(848) --> DONE
 9. [x] batch11(816) --> partially done
