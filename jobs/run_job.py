@@ -34,6 +34,7 @@ def config_parser():
     parser.add_argument('--products', type=str, help="Absolute path to products for placements.")
     return parser
 
+
 def main():
     parser = config_parser()
     # load
@@ -48,14 +49,15 @@ def main():
 
     # Run pipeline
     print('Running pipeline...')
-    pipeline.run_pipeline(input_csv_path,
-                 output_dir,
-                 template,
-                 hits,
-                 batch_num,
-                 additional_info,
-                 manual_routes)
+    pipeline.run_pipeline(csv_path=input_csv_path,
+                          output_dir=output_dir,
+                          template_path=template,
+                          hits_path=hits,
+                          batch_num=batch_num,
+                          additional_columns=additional_info,
+                          manual_routes=manual_routes)
     print('Done!')
+
 
 if __name__ == '__main__':
     main()
