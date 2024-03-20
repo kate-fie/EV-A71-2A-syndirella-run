@@ -6,7 +6,24 @@
 Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 
 ## Metadata:
-- 146 base compounds
-- 
+- 140 base compounds
 
 ### Status:
+OLD SDF NAMES batches running (similar to short code that could match more than one compound in SDF):
+- batch0
+- batch2
+- batch5
+- batch6
+
+
+NEW SDF NAMES batches running (using long code exactly present in SDF):
+- batch1:
+- batch3:
+- batch4:
+- batch7:
+- batch8:
+- batch9:
+- batch10:
+- batch11:
+- batch12:
+- batch13:
