@@ -15,7 +15,6 @@ OLD SDF NAMES batches running (similar to short code that could match more than 
 - batch5
 - batch6
 
-
 NEW SDF NAMES batches running (using long code exactly present in SDF):
 - batch7:
 - batch8:
@@ -28,11 +27,6 @@ NEW SDF NAMES batches running (using long code exactly present in SDF):
   - Cc1cnc(OCC(=O)N(C)C)cc1NC(=O)C1CCCO1 had timeout error
 - batch13:
 
-Jobs running:
-
-738
-
 Not started / need to edit the csv to only rerun part of them:
-- batch1:
 - batch3:
-- batch4:
+
