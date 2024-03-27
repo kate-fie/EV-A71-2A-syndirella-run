@@ -9,7 +9,7 @@ Then edited with [prepare_template](notebooks/prepare_template.ipynb).
 - 140 base compounds
 
 ### Status:
-OLD SDF NAMES batches running (similar to short code that could match more than one compound in SDF):
+OLD SDF NAMES batches running (similar to short code that could match more than one compound in SDF. Should only be a problem for batches using fragment x0528_A):
 - batch0
 - batch2
 - batch5
@@ -17,13 +17,22 @@ OLD SDF NAMES batches running (similar to short code that could match more than 
 
 
 NEW SDF NAMES batches running (using long code exactly present in SDF):
+- batch7:
+- batch8:
+- batch9: 
+- batch10:
+- batch11: 737 job, running
+  - 5 compounds done
+- batch12: 738 job, running
+  - 6 compounds done
+  - Cc1cnc(OCC(=O)N(C)C)cc1NC(=O)C1CCCO1 had timeout error
+- batch13:
+
+Jobs running:
+
+738
+
+Not started / need to edit the csv to only rerun part of them:
 - batch1:
 - batch3:
 - batch4:
-- batch7:
-- batch8:
-- batch9:
-- batch10:
-- batch11:
-- batch12:
-- batch13:
