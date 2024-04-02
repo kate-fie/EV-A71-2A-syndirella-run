@@ -8,6 +8,7 @@ import fnmatch
 def find_uuid_in_product_file(directory):
     for file in os.listdir(directory):
         if fnmatch.fnmatch(file, '*products*.pkl.gz'):
+            print(f"Reading file: {file}")
             with gzip.open(os.path.join(directory, file), 'rb') as f:
                 df = pd.read_pickle(f)
                 # Assuming the UUID is in a column named 'uuid'
