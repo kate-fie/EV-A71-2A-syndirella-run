@@ -26,7 +26,11 @@ NEW SDF NAMES batches running (using long code exactly present in SDF):
   - 6 compounds done
   - Cc1cnc(OCC(=O)N(C)C)cc1NC(=O)C1CCCO1 had timeout error
 - batch13:
+- batch3: finished
+  - Cc1cccc(OC2CCN(C)C2=O)c1OCC(=O)N1CCOCC1 placed 72 but no hippo.pkl since KeyError: '3_rNone_smiles'
+  - Cc1cc(C)c(OCC(=O)N2CCOCC2)c(OC2CCN(C)C2=O)c1 placed 72 but no hippo.pkl since KeyError: '3_rNone_smiles'
 
-Not started / need to edit the csv to only rerun part of them:
-- batch3:
+TODO: 
+- Need to remake hippo.pkl for the two compounds in batch3.
+ 
 
