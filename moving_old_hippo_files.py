@@ -14,13 +14,13 @@ def find_uuid_in_product_file(directory):
                 # Assuming the UUID is in a column named 'uuid'
                 return df['uuid'].unique().tolist()
 
-def move_invalid_uuid_files(main_directory, destination_directory='old_hippo_files'):
+def move_invalid_uuid_files(main_directory, destination_directory='/data/xchem-fragalysis/kfieseler/A71EV2A_run3/old_hippo_files'):
     if not os.path.exists(destination_directory):
         os.makedirs(destination_directory)
 
     for root, dirs, files in os.walk(main_directory):
-        if 'base-check' in root.split(os.sep):
-            continue  # Skip directories containing 'base-check'
+        # Skip 'base-check' and 'output' directories
+        dirs[:] = [d for d in dirs if 'base-check' not in d and d != 'output']
 
         uuids = find_uuid_in_product_file(root)
         print(f"Found UUIDs: {uuids}")
