@@ -29,7 +29,7 @@ def move_invalid_uuid_files(main_directory, destination_directory='old_hippo_fil
 
         for file in files:
             if file.endswith('to_hippo.pkl.gz'):
-                file_uuid = file.split('_')[0]  # Assuming the UUID is before the first underscore
+                file_uuid = file.split('_')[1]  # Assuming the UUID is before the first underscore
                 if file_uuid not in uuids:
                     source_path = os.path.join(root, file)
                     destination_path = os.path.join(destination_directory, file)
