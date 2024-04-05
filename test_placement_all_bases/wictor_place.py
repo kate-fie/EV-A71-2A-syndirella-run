@@ -40,8 +40,8 @@ def setup_Fragmenstein(template_path: str) -> Laboratory:
     This function sets up Fragmenstein to run.
     """
     # Using Wictor to place just by RDKit minimisation
-    os.mkdir('iris_relaxed_template')
-    os.chdir('iris_relaxed_template')
+    os.mkdir('iris_fragalysis_template')
+    os.chdir('iris_fragalysis_template')
     Wictor.work_path = os.getcwd()
     Wictor.monster_throw_on_discard = True  # stop this merger if a fragment cannot be used.
     Wictor.monster_joining_cutoff = 5  # Å
@@ -67,14 +67,14 @@ def main():
     # Load fragments
     hits_path = os.path.join(os.getcwd(), 'A71EV2A_combined.sdf')
     # Load template
-    template_path = os.path.join(os.getcwd(), 'x0310_relaxed_apo.pdb')
+    template_path = os.path.join(os.getcwd(), 'Ax0310a_apo-desolv.pdb')
     # Initiate laboratory
     lab: Laboratory = setup_Fragmenstein(template_path)
     # Add hits path to df
     df = add_hits(df, hits_path)
     # Place fragments
     placements: pd.DataFrame = lab.place(place_input_validator(df), n_cores=8, timeout=240)
-    placements.to_csv('iris_relaxed_placements.csv')
+    placements.to_csv('iris_fragalysis_placements.csv')
 
 if __name__ == '__main__':
     main()
