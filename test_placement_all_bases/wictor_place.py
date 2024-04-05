@@ -41,7 +41,7 @@ def setup_Fragmenstein(template_path: str) -> Laboratory:
     """
     # Using Wictor to place just by RDKit minimisation
     Wictor.work_path = os.getcwd()
-    os.chdir('fragalysis_template')
+    os.chdir('iris_fragalysis_template')
     Wictor.monster_throw_on_discard = True  # stop this merger if a fragment cannot be used.
     Wictor.monster_joining_cutoff = 5  # Å
     Wictor.quick_reanimation = False  # for the impatient
