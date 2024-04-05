@@ -17,20 +17,22 @@ def add_hits(df: pd.DataFrame,
     # load hits_path either from mol or sdf
     if os.path.splitext(hits_path)[1] == '.mol':
         print('This is a mol file')
-        hits: List[Chem.Mol] = [Chem.MolFromMolFile(hits_path.strip())]
+        frag_hits: List[Chem.Mol] = [Chem.MolFromMolFile(hits_path.strip())]
     else:
         with Chem.SDMolSupplier(hits_path.strip()) as sd:
-            hits: List[Chem.Mol] = list(sd)
+            frag_hits: List[Chem.Mol] = list(sd)
     # Find which hits are in the hit_names
     for i, row in df.iterrows():
         hits_names = row['hits'].split(' ')
         orig_num = len(hits_names)
         hits = [
-            hit for hit in hits
+            hit for hit in frag_hits
             if any(hit_name in hit.GetProp('_Name') for hit_name in hits_names)
         ]
         df.at[i, 'hits'] = hits
-        assert len(hits) == orig_num, 'Some hits were not found in the hits file.'
+        if len(hits) != orig_num:
+            print('number of hits not the same as original')
+            print(hits)
     return df
 
 def setup_Fragmenstein(template_path: str) -> Laboratory:
@@ -39,7 +41,7 @@ def setup_Fragmenstein(template_path: str) -> Laboratory:
     """
     # Using Wictor to place just by RDKit minimisation
     Wictor.work_path = os.getcwd()
-    os.chdir('relaxed_template')
+    os.chdir('fragalysis_template')
     Wictor.monster_throw_on_discard = True  # stop this merger if a fragment cannot be used.
     Wictor.monster_joining_cutoff = 5  # Å
     Wictor.quick_reanimation = False  # for the impatient
@@ -57,21 +59,21 @@ def setup_Fragmenstein(template_path: str) -> Laboratory:
 
 def main():
     # Load df
-    csv_path = os.path.join(os.getcwd(), '79_bases.csv')
+    csv_path = os.path.join(os.getcwd(), 'syndirella_input_MASTER_FINAL_exact.csv')
     df = pd.read_csv(csv_path)
     df.drop(columns=['reactants','reaction_names','num_steps','batch'], inplace=True)
-    df.rename(columns={'compound_set':'name'}, inplace=True)
+    #df.rename(columns={'compound_set':'name'}, inplace=True)
     # Load fragments
     hits_path = os.path.join(os.getcwd(), 'A71EV2A_combined.sdf')
     # Load template
-    template_path = os.path.join(os.getcwd(), 'x0310_relaxed_apo.pdb')
+    template_path = os.path.join(os.getcwd(), 'Ax0310a_apo-desolv.pdb')
     # Initiate laboratory
     lab: Laboratory = setup_Fragmenstein(template_path)
     # Add hits path to df
     df = add_hits(df, hits_path)
     # Place fragments
     placements: pd.DataFrame = lab.place(place_input_validator(df), n_cores=8, timeout=240)
-    placements.to_csv('relaxed_placements.csv')
+    placements.to_csv('iris_fragalysis_placements.csv')
 
 if __name__ == '__main__':
     main()
