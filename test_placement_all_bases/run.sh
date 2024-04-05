@@ -26,7 +26,7 @@ echo "Running script ${0} as $USER in $HOST which runs $PRETTY_NAME"
 source /data/xchem-fragalysis/kfieseler/.bashrc
 conda activate fragmenstein
 
-cd /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/test_placement;
+cd /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/test_placement_all_bases;
 
 pwd;
 
