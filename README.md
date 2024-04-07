@@ -1,36 +1,15 @@
-# EV-A71-2A-syndirella-run
+## Structures
 
-### Structures used for placement:
-1. Fragment hits: [A71EV2A_combined.sdf](fragments/A71EV2A_combined.sdf). (Downloaded directly from Fragalysis). Checked each fragment to make sure that they overlap in space. 
-2. Template: [x0310_relaxed_apo.pdb](fragments/x0310_relaxed_apo.pdb). Created by Matteo Ferla using [relax.ipynb](https://github.com/matteoferla/EV-A71-2A-elaborations/blob/main/iteration-2/code/relax.ipynb). 
-Then edited with [prepare_template](notebooks/prepare_template.ipynb).
+### Fragments:
+The fragments were downloaded directly from Fragalysis. The fragments SDF used is [A71EV2A_combined.sdf](fragments/TO_USE/A71EV2A_combined.sdf).
 
-## Metadata:
-- 140 base compounds
+### Template
+> fragments/prepare_template.ipynb
 
-### Status:
-OLD SDF NAMES batches running (similar to short code that could match more than one compound in SDF. Should only be a problem for batches using fragment x0528_A):
-- batch0
-- batch2
-- batch5
-- batch6
+The [template](fragments/TO_USE/Ax0310_relaxed_apo.pdb) was prepared with some tweaks (using the [relax script](https://github.com/matteoferla/EV-A71-2A-elaborations/blob/5e11d605337b20f9c415b2bb6a1fc409bab479c5/iteration-2/code/relax.ipynb) from Matteo Ferla)
 
-NEW SDF NAMES batches running (using long code exactly present in SDF):
-- batch7:
-- batch8:
-- batch9: 
-- batch10:
-- batch11: 737 job, running
-  - 5 compounds done
-- batch12: 738 job, running
-  - 6 compounds done
-  - Cc1cnc(OCC(=O)N(C)C)cc1NC(=O)C1CCCO1 had timeout error
-- batch13:
-- batch3: finished
-  - Cc1cccc(OC2CCN(C)C2=O)c1OCC(=O)N1CCOCC1 placed 72 but no hippo.pkl since KeyError: '3_rNone_smiles'
-  - Cc1cc(C)c(OCC(=O)N2CCOCC2)c(OC2CCN(C)C2=O)c1 placed 72 but no hippo.pkl since KeyError: '3_rNone_smiles'
+NOTE: The fragments SDF was loaded into a pymol session with the relaxed template and checked by eye to makes sure they are put in the CORRECT active site. 
 
-TODO: 
-- Need to remake hippo.pkl for the two compounds in batch3.
- 
+## Designs
 
+There are 140 base compound designs. After placing base compound designs to the template, X were successfully minimised. Therefore these designs are used as input to Syndirella's pipeline. 

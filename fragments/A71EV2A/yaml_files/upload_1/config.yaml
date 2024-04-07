@@ -1,0 +1,22 @@
+target_name: A71EV2A
+base_dir: /
+output_dir: /dls/labxchem/data/lb32627/lb32627-66/processing/analysis/xchem_align_uploads
+ref_datasets: 
+  - A71_2A_x0090_ref_7_monomer
+  - small_cell
+  - long_cell
+inputs:
+  - dir: dls/labxchem/data/lb32627/lb32627-66
+    type: model_building
+    code_prefix: "A"
+    code_prefix_tooltip: "A71 2A structures"
+    soakdb: processing/database/soakDBDataFile.sqlite
+    panddas_event_files:
+    - processing/analysis/pandda_2_20231020_ranking_test/pandda/analyses/pandda_inspect_events.csv
+    - processing/analysis/pandda2_first_500_17_10_23/pandda/analyses/pandda_inspect_events.csv
+    - processing/analysis/pandda2_remaining_screen_smallcell_2023-12-05/analyses/pandda_inspect_events.csv
+    - processing/analysis/pandda2_remaining_failed_2_220224/analyses/pandda_inspect_events.csv
+  - dir: dls/labxchem/data/lb32627/lb32627-66/processing/analysis/xchem_align_uploads/reference
+    type: manual
+    code_prefix: ""
+    code_prefix_tooltip: ""

@@ -1,0 +1,27 @@
+assemblies:
+    monomer:
+        reference: A71_2A_x0090_ref_7_monomer
+        biomol: A
+        chains: A
+crystalforms:
+    A71_2A_open:
+        reference: A71_2A_x0090_ref_7_monomer
+        assemblies:
+            1:
+                assembly: monomer
+                chains: A
+    A71_2A_open_small_cell:
+        reference: small_cell
+        assemblies:
+            1:
+                assembly: monomer
+                chains: A
+    A71_2A_open_long_cell:
+        reference: long_cell
+        assemblies:
+            1:
+                assembly: monomer
+                chains: A
+            2:
+                assembly: monomer
+                chains: B

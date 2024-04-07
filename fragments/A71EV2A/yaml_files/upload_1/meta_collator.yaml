@@ -1,0 +1,2413 @@
+run_on: '2024-03-12 12:53:00.604067'
+collator_cwd: /dls/labxchem/data/lb32627/lb32627-66/processing/analysis/xchem_align_uploads
+collator_config_file: config.yaml
+input_dirs:
+- /dls/labxchem/data/lb32627/lb32627-66
+- /dls/labxchem/data/lb32627/lb32627-66/processing/analysis/xchem_align_uploads/reference
+output_dir: /dls/labxchem/data/lb32627/lb32627-66/processing/analysis/xchem_align_uploads
+version_number: 1
+version_dir: upload_1
+previous_version_dirs: []
+code_prefix_tooltips:
+  A: A71 2A structures
+crystals:
+  A71EV2A-x0450:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z100642432
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0450/A71EV2A-x0450.pdb
+        sha256: dec53789027de5ffc0eb42b4158c1023f96d59142291e1b67676eeaef4a17df2
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0450/A71EV2A-x0450.mtz
+        sha256: 48ce6ce332b71246126912d05ce3ac1ab1452b9203c382c279c2fb933c4ca178
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0450/A71EV2A-x0450.cif
+        sha256: d55dadae7fb0d7638b249b27d03c1f3207ab6065527fd6ca2d067c63759a9ee1
+        smiles: CN(C)C(=O)c1ccc(F)cc1Br
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0450/A71EV2A-x0450_1_A_201.ccp4
+        sha256: 56d493d405bd9bfa8105b7bba96adb3741bdac7ea13d96293fcec6f8bc59a780
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.9
+    status: new
+  A71EV2A-x0451:
+    type: model_building
+    last_updated: '2024-02-14 13:39:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z100643660
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0451/A71EV2A-x0451.pdb
+        sha256: 91893ae9cc09b385afcd1d7f73502040de837405e865522e8c0f88d67cfc7728
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0451/A71EV2A-x0451.mtz
+        sha256: 54e6dc8885d1a23afd6990a130e10a298c9eca195af0c0c7e99c5f0bdcd4262f
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0451/A71EV2A-x0451.cif
+        sha256: 72ace849fb609569a20d7e5d1369bf853eb05ef0b65d10a17cfe8d44a5cb7d63
+        smiles: CNC(=O)c1cn(C)c2ccccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0451/A71EV2A-x0451_1_A_201.ccp4
+        sha256: a9e25d5bf27a16fc397919fd0498f334a228cf187445d05dc6c27e1f4243cdb1
+        model: '1'
+        chain: A
+        res: 201
+        index: 1
+        bdc: 0.54
+    status: new
+  A71EV2A-x0469:
+    type: model_building
+    last_updated: '2024-01-17 09:48:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z104924088
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0469/A71EV2A-x0469.pdb
+        sha256: cd3da04d7385d79189859785832bab6c9b0047fb8374000d33ccacb2e85dc82d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0469/A71EV2A-x0469.mtz
+        sha256: 8cad741f97f1618305fa245f8c07af35d74aa7214d54744c7743f87f4d9febba
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0469/A71EV2A-x0469.cif
+        sha256: 2dc6efdcaadafdfee97715c859953727adeb7452e779b751d3ede47701913ccd
+        smiles: CC(C)N1CCN(c2ncccn2)CC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0469/A71EV2A-x0469_1_A_147.ccp4
+        sha256: e2438159116d3735bcffa225b9bbca497dae609c965b14444ff273f478b9b3f7
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.28
+    status: new
+  A71EV2A-x0473:
+    type: model_building
+    last_updated: '2024-01-17 09:48:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1082839290
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0473/A71EV2A-x0473.pdb
+        sha256: b176c3e3287d86e8c9869ae201e11438af49a965aaa4238096a7cbbc05fe5356
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0473/A71EV2A-x0473.mtz
+        sha256: f063fda7c16b58d5b774de4873205cb298165b260c0400f5ec4c0aa89b983a83
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0473/A71EV2A-x0473.cif
+        sha256: 4345defd63288dbaba84856dcdd19aa172c72b98900f94ed419a1c476d640ad5
+        smiles: O=S(=O)(NC1CCCC1)C1CCOCC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0473/A71EV2A-x0473_1_A_147.ccp4
+        sha256: 138a8a8df66baf82f0754a707e8b590c3f9942eb75417481facbbd6d475e11dd
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.28
+    status: new
+  A71EV2A-x0486:
+    type: model_building
+    last_updated: '2024-01-17 09:48:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1148165337
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0486/A71EV2A-x0486.pdb
+        sha256: 66b5cacf3dfcdde5b4bbd271c8f1fcef66d38dbc10859cfe44b38a901c8f063c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0486/A71EV2A-x0486.mtz
+        sha256: d8fa34c9fc7aa0bc42c72bf200c88b2b48c7f087559643623b04a4d58c23d06b
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0486/A71EV2A-x0486.cif
+        sha256: 0b3eecf74f2404f21b808559496ccfd45afb2ae010c1825cde03f95fccbe2fbb
+        smiles: CN(C)C(=O)Cn1ncc2ccccc21
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0486/A71EV2A-x0486_1_A_147.ccp4
+        sha256: 80925bbe487ba88f65389e7458b25679f102c6f5f2d3cc2a092fc746e55da24e
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.35
+    status: new
+  A71EV2A-x0488:
+    type: model_building
+    last_updated: '2024-01-19 15:46:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1154747269
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0488/A71EV2A-x0488.pdb
+        sha256: 66b03db1e5f1faa3f04ed73c60676b714440b87fa3579c8235a8a916fd624ccf
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0488/A71EV2A-x0488.mtz
+        sha256: 6b77aaaecf5d42db43655797a1397c7fd6505dc0785ed2a4c214f6267e2ce13a
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0488/A71EV2A-x0488.cif
+        sha256: 08a6346e7c1418ad2238f89f42ea00dc19881fb48cd9a0cbfc8b713db02f5d7b
+        smiles: O=c1ccncn1CCO
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0488/A71EV2A-x0488_1_A_147.ccp4
+        sha256: 33da8fb5b535f66c401871538be232cfa7a2b7e36b563f21a8edb0d0c385c1f4
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.25
+    status: new
+  A71EV2A-x0497:
+    type: model_building
+    last_updated: '2024-01-17 08:45:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1198158918
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0497/A71EV2A-x0497.pdb
+        sha256: c58c8a85a03b27d72ce67e08ee9425664dd88033bfe9658b78907e6901b68926
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0497/A71EV2A-x0497.mtz
+        sha256: 5429128bfc781856b5fcb4d7e076fefb6d7999eb16ed11054d17da2130f25503
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0497/A71EV2A-x0497.cif
+        sha256: 473b65d732876f5a6c9c41fe89c632a4b29835e1ccd42132821c1c67fdf54a5a
+        smiles: N#Cc1n[nH]c2ccccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0497/A71EV2A-x0497_1_A_147.ccp4
+        sha256: cd8dbc6441dd36ee17ce088c1e1766416ff20642840733d550980ca99b2cfe8f
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.05
+    status: new
+  A71EV2A-x0501:
+    type: model_building
+    last_updated: '2024-03-08 13:15:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1198177230
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0501/A71EV2A-x0501.pdb
+        sha256: 7406ff04065f3777663ae5587c4dbdc072ddaff0696e68d355fbda98aafaaa18
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0501/A71EV2A-x0501.mtz
+        sha256: f7c0cef1b5a97f9af95221e15150ced033972abc408800e6028603e0f048d0fa
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0501/A71EV2A-x0501.cif
+        sha256: bb4cbca6a60d795c1b87f2c8f37174de44da274725c028f65478341df1f14396
+        smiles: COc1ccccc1-c1nnco1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0501/A71EV2A-x0501_1_A_151.ccp4
+        sha256: 35003b9e9f72d47266a920b5773ddc9b0b19034a268e24c122ac68fe5bac5045
+        model: '1'
+        chain: A
+        res: 151
+        index: 2
+        bdc: 0.58
+      - file: upload_1/crystallographic_files/A71EV2A-x0501/A71EV2A-x0501_1_A_152.ccp4
+        sha256: 14aeb1f3a7047833880c089ac3946b07981bae8a3090857f55247b1e8567058b
+        model: '1'
+        chain: A
+        res: 152
+        index: 3
+        bdc: 1.0
+    status: new
+  A71EV2A-x0514:
+    type: model_building
+    last_updated: '2024-03-08 13:15:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1201620232
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0514/A71EV2A-x0514.pdb
+        sha256: 59f7655475c9b39f2292fba070b9dfb0bd96deffb3af4f1f964131bb2e6d8cec
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0514/A71EV2A-x0514.mtz
+        sha256: 0cba57da0481a9902512fabad0223df53c3e8e461eb56dd9bd0b0de6a20c97d0
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0514/A71EV2A-x0514.cif
+        sha256: 2118dee5ed20b478ba582d23267a78eaec32122b438f4206cffbb23f4722622a
+        smiles: COc1ccc2sc(N)nc2c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0514/A71EV2A-x0514_1_A_151.ccp4
+        sha256: 6f68a2415ec35869287fd4c70227bc52a1ffbeef3b99b62a10a081709fe5c01b
+        model: '1'
+        chain: A
+        res: 151
+        index: 1
+        bdc: 0.62
+      - file: upload_1/crystallographic_files/A71EV2A-x0514/A71EV2A-x0514_1_B_151.ccp4
+        sha256: 6f68a2415ec35869287fd4c70227bc52a1ffbeef3b99b62a10a081709fe5c01b
+        model: '1'
+        chain: B
+        res: 151
+        index: 1
+        bdc: 0.62
+    status: new
+  A71EV2A-x0515:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1201621547
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0515/A71EV2A-x0515.pdb
+        sha256: 9d420947eb90722b73719b94dcaf8b1129641167c51ffa98e66be751af5fc294
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0515/A71EV2A-x0515.mtz
+        sha256: cead3f9e73f0b62ad6528bb90d59c53cd5384ae7033115933391d7cf996defd7
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0515/A71EV2A-x0515.cif
+        sha256: 3bfd9066f0d3413c192a0fbfae64d00089848a88933e52e7cc8351c1c83280fa
+        smiles: COC(=O)c1ccncc1N
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0515/A71EV2A-x0515_1_A_147.ccp4
+        sha256: 959e662370abbbd704666a9cdfbe5ce609d4838229f63ff3dc8624dd90a928cf
+        model: '1'
+        chain: A
+        res: 147
+        index: 3
+        bdc: 0.2
+      - file: upload_1/crystallographic_files/A71EV2A-x0515/A71EV2A-x0515_1_A_201.ccp4
+        sha256: eb15ae3fa538b06a155a7a3ebd240492dc4e95b926045e82917e99d991ce1950
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.81
+    status: new
+  A71EV2A-x0517:
+    type: model_building
+    last_updated: '2024-01-17 09:49:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1203107138
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0517/A71EV2A-x0517.pdb
+        sha256: 1b7cb860ff2c643e06b0491ea7adb11e7beabba567003a965b24f230459427be
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0517/A71EV2A-x0517.mtz
+        sha256: df23e9babdc042e0f916a4a3b450ad1ea818c5762c215b375703c2d997b07fc2
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0517/A71EV2A-x0517.cif
+        sha256: 75d9213482c688ee7646178d510b8e874b8f26c7c33fcfcd8815d2b562f0c0ce
+        smiles: CCn1cc(C(=O)NCc2ccc(F)cc2)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0517/A71EV2A-x0517_1_A_147.ccp4
+        sha256: 14ad818e4183dbb818c8a6430cee95bef07952c78d78b5f4e508ad7157222995
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.47
+    status: new
+  A71EV2A-x0525:
+    type: model_building
+    last_updated: '2024-01-17 09:48:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1216861874
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0525/A71EV2A-x0525.pdb
+        sha256: 1531752c729998451d4dcd380a839a42d319832769a83ece7d5bf12ce1da230e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0525/A71EV2A-x0525.mtz
+        sha256: 756e77e0fc548f05d0059f9f98a57ee00c0afc4f0e52b8869a5c45b0947e05fd
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0525/A71EV2A-x0525.cif
+        sha256: 5443aaa10da71d7f84a3b2165d20447010bb33037c8e8478f1349ab9d675ecf6
+        smiles: O=c1ccc(OC(F)F)c[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0525/A71EV2A-x0525_1_A_147.ccp4
+        sha256: 89ba255f2d5c6f61c3254c96d940ed0bb8c22b57d079d088be43f3577a39361b
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.85
+    status: new
+  A71EV2A-x0526:
+    type: model_building
+    last_updated: '2024-01-17 09:49:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1217131798
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0526/A71EV2A-x0526.pdb
+        sha256: f344a5fb340e178e47e41f451aa848d7f60bdfc46ee2b152fb915e69b35caef0
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0526/A71EV2A-x0526.mtz
+        sha256: 3ddac0efe89660588e86a4b06bb0221a6abdfaf06f7ab3193dbcb651b2fc2145
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0526/A71EV2A-x0526.cif
+        sha256: c444af2ca935c2c00552e3871998f18444ee0b0b62a5d1cafc7ff023ae71f41c
+        smiles: Cc1nccn1-c1cccnc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0526/A71EV2A-x0526_1_A_147.ccp4
+        sha256: 64060df839eb28287138b6a9095c00c74381598fa4ae2b0faf5084523f0b1086
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.45
+    status: new
+  A71EV2A-x0528:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1217960891
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0528/A71EV2A-x0528.pdb
+        sha256: e6de73f31b3279790cc6c8bef0a1c408790f34ebecc8dac799319bfbc41e083c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0528/A71EV2A-x0528.mtz
+        sha256: e2d46e3381940803afe7cfb699ca5937d7c6a536cbb1414a347e979e0389f533
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0528/A71EV2A-x0528.cif
+        sha256: 64ce436f3f42f0c2f56cc8737b36c194f35b13589786fe2002f4a350639603b6
+        smiles: CN1CC[C@@H](Oc2cccc(F)c2)C1=O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0528/A71EV2A-x0528_1_A_147.ccp4
+        sha256: 5dc5bc31de5be70350ce1c1eddc81055d94a2a856ec61e72eb851ed457fc6722
+        model: '1'
+        chain: A
+        res: 147
+        index: 3
+        bdc: 0.27
+      - file: upload_1/crystallographic_files/A71EV2A-x0528/A71EV2A-x0528_1_A_201.ccp4
+        sha256: 00ee0e7b4b4aefbd87013f68fca214f6a46e859d17b48ce4c3eac4bfc9cf01bd
+        model: '1'
+        chain: A
+        res: 201
+        index: 1
+        bdc: 0.78
+    status: new
+  A71EV2A-x0540:
+    type: model_building
+    last_updated: '2024-01-17 09:49:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z124039706
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0540/A71EV2A-x0540.pdb
+        sha256: f204f36503ddf5dc16c4db53ed06cf23a3c9c62a2d4dd0d5153dbc84f911266e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0540/A71EV2A-x0540.mtz
+        sha256: 770cefee307ee9a36a44f7bc46aad12f85fdfe86c90b22d8188dfac3eb2ad116
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0540/A71EV2A-x0540.cif
+        sha256: 2ffd5cf7e53cbcac51c3d58deb72a249728f12855c820adad55505e64c6d256e
+        smiles: N#Cc1ccc(CNCc2ccc(F)cc2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0540/A71EV2A-x0540_1_A_147.ccp4
+        sha256: b9803f78e2d01eb6ef5481617efcb6eeb4938a687adc12b691cde7ff609ba12a
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.36
+    status: new
+  A71EV2A-x0541:
+    type: model_building
+    last_updated: '2024-01-17 09:49:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1246465616
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0541/A71EV2A-x0541.pdb
+        sha256: 6de12f51493934d1f201c3029ef90fecd5c6efa06e818842e383451cc8cb9303
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0541/A71EV2A-x0541.mtz
+        sha256: 41f0728a36e2ff1a714461e9231414dd0f89c5eb9913fd8270954cdcf06b2644
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0541/A71EV2A-x0541.cif
+        sha256: bc72d5031ffcfe9b125aa429bdfb13ff7ab8406db99be271f258e849e9af294b
+        smiles: Cc1noc(C)c1C[C@@H](C)C(=O)N(C)C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0541/A71EV2A-x0541_1_A_147.ccp4
+        sha256: 5b8f7761d2260ea990c28cbd32246360f7906a90702a7033278b766a6935769f
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.27
+    status: new
+  A71EV2A-x0554:
+    type: model_building
+    last_updated: '2024-01-17 09:50:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1255459547
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0554/A71EV2A-x0554.pdb
+        sha256: 129222e614e6d1651b991d890c2d92c22d01b5f42892be22ff0419b65947c1e9
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0554/A71EV2A-x0554.mtz
+        sha256: 41d7a78232043f9cb230da26701594d97cfd86d8d09b5f296259b07a3382d233
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0554/A71EV2A-x0554.cif
+        sha256: 748e21ffc91fb8e4fd3d073823f146f57cee1913e231b2801727446aa868d22e
+        smiles: CC(=O)Nc1cccc2cc[nH]c12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0554/A71EV2A-x0554_1_A_147.ccp4
+        sha256: df1b0369a43deda57dbe926f02522eb047db35fd793bf78a981cee16ad68ce03
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.21
+      - file: upload_1/crystallographic_files/A71EV2A-x0554/A71EV2A-x0554_1_A_201.ccp4
+        sha256: d2bb94e8254f77c63f6a7fecbbcfef86df09f84c92effac6f7346f25ad580da4
+        model: '1'
+        chain: A
+        res: 201
+        index: 3
+        bdc: 0.35
+    status: new
+  A71EV2A-x0556:
+    type: model_building
+    last_updated: '2024-01-17 09:49:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1259207775
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0556/A71EV2A-x0556.pdb
+        sha256: 9aef708fbbe114aab68f19cc82c6556d1fb9664db3fb52f242d7b5b95bed78f2
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0556/A71EV2A-x0556.mtz
+        sha256: d58cf6161236b61349d96a8018015b96fae39db7be4e38bb0cdad31151fd8fbc
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0556/A71EV2A-x0556.cif
+        sha256: c69b5bef6c1200751130b25ac8b134cd931f5af9fd79e820c807f2d580e793b3
+        smiles: Cn1cc(N)c(C(=O)NC2CCC2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0556/A71EV2A-x0556_1_A_147.ccp4
+        sha256: 0c84abe52bae28ebafe4844877b175ca5e898eee3158ce62bf4e9fdfb0e26f0a
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.91
+    status: new
+  A71EV2A-x0566:
+    type: model_building
+    last_updated: '2024-01-17 09:49:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1267800292
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0566/A71EV2A-x0566.pdb
+        sha256: a50da94204d624798dd15552a302901a8e9e68bdce37640bac5a21772df081eb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0566/A71EV2A-x0566.mtz
+        sha256: 27f8e59cb9f2c93506cb5e53846e38a32041dddeb5135c7199f76c586d25b246
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0566/A71EV2A-x0566.cif
+        sha256: 26d087c160e4f3bc252b8ad465f6298fa69099d90cc4aa70e72e45aa3a1df3bd
+        smiles: CNC(=O)c1cccc2cc[nH]c12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0566/A71EV2A-x0566_1_A_147.ccp4
+        sha256: b800be23ba58ec8e230f65606e48d5215098af8c66926976c889383548c3fc0e
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.51
+    status: new
+  A71EV2A-x0571:
+    type: model_building
+    last_updated: '2024-01-17 08:49:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1270393711
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0571/A71EV2A-x0571.pdb
+        sha256: 0d8bae2b5e5c1071bb83055935332bad3bf479f1add23f92f3f32da6b1e33e82
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0571/A71EV2A-x0571.mtz
+        sha256: d5f21a2b7c9c2fb122a762aaafa21d71c65c025ff303147d217e4d4c5e92fe22
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0571/A71EV2A-x0571.cif
+        sha256: f84576bd465af372f9d9d3f7989f63fbe25817826bcd05df180d1dd1905abb28
+        smiles: COCc1cc(C(N)=O)no1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0571/A71EV2A-x0571_1_A_147.ccp4
+        sha256: d95382e29aa3e842bf162ccdd0251bcaf9195f9f2f20660e91dd972fdd72d461
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.91
+    status: new
+  A71EV2A-x0586:
+    type: model_building
+    last_updated: '2024-01-17 10:04:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1333043510
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0586/A71EV2A-x0586.pdb
+        sha256: eff6691c51fcee618e01a68510a544a65b02f0e09c37e68572017360fee34940
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0586/A71EV2A-x0586.mtz
+        sha256: ee1a6c098b7cab471d80b0a767b72ce4b55986bd16f94a753a9fb29016092039
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0586/A71EV2A-x0586.cif
+        sha256: e79ad20652ada54c2a2b662e9e46d407c744fb7e67f4890bccc4c3efe35b9787
+        smiles: CN1CCCc2ccc(S(N)(=O)=O)cc21
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0586/A71EV2A-x0586_1_A_147.ccp4
+        sha256: 2bbcfc2bd449e7edf8e36761f2b6ad63aaf211d747a9db4bfead44003a4b6b35
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.16
+    status: new
+  A71EV2A-x0269:
+    type: model_building
+    last_updated: '2024-01-17 09:44:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1456069604
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0269/A71EV2A-x0269.pdb
+        sha256: c145ea2f320eba287f3379ccc2602146305dbfda5f3b8635ecc708110b2c1a8c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0269/A71EV2A-x0269.mtz
+        sha256: e5d60e06b244728511dd64cd54c32640ab048b4471fe4ebcb2ed4765ee451103
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0269/A71EV2A-x0269.cif
+        sha256: 32b99df8a0eb0c824018d55de57ccf0567dbe632e45a58102d5661e0860fb7d9
+        smiles: O=C(N[C@H]1CCCNC1)c1ccccc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0269/A71EV2A-x0269_1_A_147.ccp4
+        sha256: a04110d7b94138d8f10d232fdcb0628e8826bb2a1ccbeffd490bf4d62c47f712
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.64
+    status: new
+  A71EV2A-x0278:
+    type: model_building
+    last_updated: '2024-01-26 08:45:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1491353358
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0278/A71EV2A-x0278.pdb
+        sha256: dab5aac32b0bbd179616f36ea6e6caf60dd7ff944c1ad6edae79dd4f9f64309d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0278/A71EV2A-x0278.mtz
+        sha256: 64cec6d80cca151a49ea575290bb016e80f908801a88740076e7a72248671893
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0278/A71EV2A-x0278.cif
+        sha256: 473d4b88615d7ed28730fa7bafce241c44389734cb955a1dc5c20bf2cdb64854
+        smiles: N[C@H]1CCN(S(=O)(=O)c2ccccc2)C1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0278/A71EV2A-x0278_1_A_147.ccp4
+        sha256: dc90d2edc85dc525c2a601134cccf6210ad08314308473288ace5e5554ed67f7
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 1.0
+      - file: upload_1/crystallographic_files/A71EV2A-x0278/A71EV2A-x0278_1_A_201.ccp4
+        sha256: 34ce198d9faf6ec11e7fc7ed01b518a32ed6bcf3c439225beec358ca7f41f490
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.64
+    status: new
+  A71EV2A-x0305:
+    type: model_building
+    last_updated: '2024-01-17 09:44:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1639162606
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0305/A71EV2A-x0305.pdb
+        sha256: 8b6c741d32ce75961ad5d86b023beadebad6d496844a2f8f72524967d04f70b9
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0305/A71EV2A-x0305.mtz
+        sha256: 46d4fc23ca606c060dc62832026404daf4f01265ba0f29079373a8aa8cee45bd
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0305/A71EV2A-x0305.cif
+        sha256: 41aef2a7dee20c0b175e6ac6eb28f3bc2a84b46c3c1f16dbf6efd3fa690c6f34
+        smiles: CNS(=O)(=O)c1cccc(C)c1F
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0305/A71EV2A-x0305_1_A_147.ccp4
+        sha256: 0c5bae2231fef739f2d6b31ed72bfc9004d2213656c375557b098a3edf986e9c
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.29
+    status: new
+  A71EV2A-x0309:
+    type: model_building
+    last_updated: '2024-01-17 09:44:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1685106505
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0309/A71EV2A-x0309.pdb
+        sha256: 50a8d52c9250dce41a9a970999924e2529c5fc3aca73a642fbdd9bcb3e5a84dd
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0309/A71EV2A-x0309.mtz
+        sha256: 2a691f5fb26fe8fa0a95a143962cf9e760ff1379d6b16b58070972e32dce4572
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0309/A71EV2A-x0309.cif
+        sha256: 18ac954f800ba359acbeeaa011d368456e8bea7055d3c47b9a68645b8750672c
+        smiles: Cn1ccnc1-c1noc(C2CCC2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0309/A71EV2A-x0309_1_A_147.ccp4
+        sha256: 21d7ff04b2d87289263399af8840278af89e4ae9047a8cb8acd3f556b42b583d
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.54
+    status: new
+  A71EV2A-x0310:
+    type: model_building
+    last_updated: '2024-02-20 15:11:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1688504114
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0310/A71EV2A-x0310.pdb
+        sha256: d69c26369636c4f4adf3982ecb152145c9ad475d68261a22ed257cf1d631e40a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0310/A71EV2A-x0310.mtz
+        sha256: 73d85995cc3edfffbb9e44d98d1e6483d9ef24ea5146223a04206b27b1847ab6
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0310/A71EV2A-x0310.cif
+        sha256: a84c094b4797fa6fb25a2ce11eeca699d0f6d59057f78d34b5efaac9fa9d85a3
+        smiles: Cc1nn(C)c(C)c1NC(=O)CC#N
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0310/A71EV2A-x0310_1_A_147.ccp4
+        sha256: feada49bcc764a943fdc2ffe2837712cd8697ac6540e33d8c0e28ffe7befda75
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.46
+    status: new
+  A71EV2A-x0608:
+    type: model_building
+    last_updated: '2024-01-17 10:03:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z2064898339
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0608/A71EV2A-x0608.pdb
+        sha256: b39672145343be2678e86eaaff8a4018d02d1016aedd9a74b86603f8602da536
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0608/A71EV2A-x0608.mtz
+        sha256: b64ab307ff5ae25873e1dcc7734873f123f902d7bfe64ed209155d34079bc8c7
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0608/A71EV2A-x0608.cif
+        sha256: e4b067d89f59adadc004aaacd719a451f205f73c80c1f4533635361509784a31
+        smiles: Cc1ccc(CC(=O)NC[C@@H]2CCCO2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0608/A71EV2A-x0608_1_A_147.ccp4
+        sha256: 41bd386c4da55e22f25bd4e67cdfe4b408ca7353f6ce4d417fa1940c9dd18647
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.45
+    status: new
+  A71EV2A-x0691:
+    type: model_building
+    last_updated: '2024-01-17 10:04:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z285782452
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0691/A71EV2A-x0691.pdb
+        sha256: 49fe56bb1404c20918e50be35661a430b391c9e9cbf944a761e0326e6794a2cd
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0691/A71EV2A-x0691.mtz
+        sha256: 404192301faa9f09ae1c17ba3d4726e503fc649b162ff9d5f13c50aa0529ee95
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0691/A71EV2A-x0691.cif
+        sha256: 013b8deb2aabfbf17fc964b2c95f8cac3e51dfc7f6b304069fed71b1b7bc08a9
+        smiles: CNc1ccccc1S(C)(=O)=O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0691/A71EV2A-x0691_1_A_201.ccp4
+        sha256: b3570dad6e293a4e585f993de5f43ff4462a78f3dc1cc361f8504dd1df7d47fa
+        model: '1'
+        chain: A
+        res: 201
+        index: 3
+        bdc: 0.43
+    status: new
+  A71EV2A-x0152:
+    type: model_building
+    last_updated: '2024-02-14 12:52:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z31602870
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0152/A71EV2A-x0152.pdb
+        sha256: ddd7b71e8f039b821e3bc49ca6ed0de8db8d59a47c26a4b10f7f6730fae6f519
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0152/A71EV2A-x0152.mtz
+        sha256: f0e692b4f669012451164376e658b65c2477c4b5b20d3ddc1cd5c3778a0d3142
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0152/A71EV2A-x0152.cif
+        sha256: 41eaea10262fecfd15152d74c07e711aaae8cfc4407688b65b3ecd2b47f78d72
+        smiles: O=C1CN(C(=O)COc2ccccc2)CCN1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0152/A71EV2A-x0152_1_A_147.ccp4
+        sha256: 719ccb330a166d2245703e81a148f3485ef607ea8a3c11b7c7fe8716b0cd7ef3
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.69
+      - file: upload_1/crystallographic_files/A71EV2A-x0152/A71EV2A-x0152_1_A_201.ccp4
+        sha256: 9a24bf9567fec9f34ea9669e44c99584e5a224794adb1848ce692be37da6ad57
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.26
+    status: new
+  A71EV2A-x0188:
+    type: model_building
+    last_updated: '2024-01-17 09:44:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z355202286
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0188/A71EV2A-x0188.pdb
+        sha256: 51a19448c32fda107a955a883a861ddbe4dfbf8003bbd09b94899582d80db07e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0188/A71EV2A-x0188.mtz
+        sha256: 4de7647efa2b6f7d47020ec544070b74d45b0d37d08ae3de17d28e8af2694575
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0188/A71EV2A-x0188.cif
+        sha256: 8fad7661bce6dd97efb857c19d4f99554def1b5e905ae2dc6a531b858343f36e
+        smiles: CC[C@@H]1CN(S(=O)(=O)N(C)C)CCO1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0188/A71EV2A-x0188_1_A_147.ccp4
+        sha256: 2bc92add3c2ab58bd623cbefbabf3100a2c7cc010e493171f5dd611d77f9f4be
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.05
+    status: new
+  A71EV2A-x0194:
+    type: model_building
+    last_updated: '2024-01-17 08:32:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z3664805965
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0194/A71EV2A-x0194.pdb
+        sha256: 32ac8d9b002aeb3b255db5f317b5d31c93e40ad7947378ddb186e18e52125b02
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0194/A71EV2A-x0194.mtz
+        sha256: 0883ff44c094c31ff4a5bc745c2670e336fe8f49dd52f0526cda36515fbb934f
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0194/A71EV2A-x0194.cif
+        sha256: b24d6b73fe0a57776d205d2b0e24722c2cbfc5cf89c75d79f23e50078e404023
+        smiles: Fc1ccccc1CNC1CCOCC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0194/A71EV2A-x0194_1_A_147.ccp4
+        sha256: 38c6c03f65da81d879927f59e5faef25d4092070b8e61fba2761571da47f7ce5
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.67
+    status: new
+  A71EV2A-x0202:
+    type: model_building
+    last_updated: '2024-01-17 09:43:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z3765495818
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0202/A71EV2A-x0202.pdb
+        sha256: 64c35a2a41dea91257b46fd71cf1c87095f89e887f0d4eba06929940ba4396a9
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0202/A71EV2A-x0202.mtz
+        sha256: 675e6eeda982a0b374097a1484c151c9b5dba672ff4e9b552085bca21b7036cc
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0202/A71EV2A-x0202.cif
+        sha256: cfa1612bd1d23dae4d15d07b5650138eac3f1942d04936f713844f9c38712f71
+        smiles: NS(=O)(=O)c1cnc2cccnn12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0202/A71EV2A-x0202_1_A_147.ccp4
+        sha256: 29d37410f6879c5ac902b46d6bebb35065627efdcde5373bd1dfd390908f7369
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.2
+      - file: upload_1/crystallographic_files/A71EV2A-x0202/A71EV2A-x0202_1_A_201.ccp4
+        sha256: 2c92b4abb7cb3f1134fbd09f4eeca87c231d97d4fc2032c444f4eb28bfac2029
+        model: '1'
+        chain: A
+        res: 201
+        index: 3
+        bdc: 0.15
+    status: new
+  A71EV2A-x0207:
+    type: model_building
+    last_updated: '2024-03-08 13:15:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z384361454
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0207/A71EV2A-x0207.pdb
+        sha256: 995d5db1633e3349161ccdc7e8e07f6bfea2bb5b3ecea9f7a5b3866217873065
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0207/A71EV2A-x0207.mtz
+        sha256: d903c743a2c0bf3bc8d198bc4de87ed966bbb05892ab3d7af35a2fc4925cbfd3
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0207/A71EV2A-x0207.cif
+        sha256: aedac8a15bcfdc96075f5bdfc5abeac4aabd952b0f55a9b6c7711e5029586a3d
+        smiles: Cc1cc(C(=O)NC[C@@H]2CCOC2)on1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0207/A71EV2A-x0207_1_A_151.ccp4
+        sha256: ef7bb707e9bd9e70cbe1e5a8b76d4f66745aa64125ce455ea99eac619158b617
+        model: '1'
+        chain: A
+        res: 151
+        index: 1
+        bdc: 0.28
+    status: new
+  A71EV2A-x0228:
+    type: model_building
+    last_updated: '2024-01-17 09:44:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z425757818
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0228/A71EV2A-x0228.pdb
+        sha256: 6f9f64ee87bff4ce7355c860b39f829ba7281ed4c80ac47922c10dae77cf8d62
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0228/A71EV2A-x0228.mtz
+        sha256: 81adc6d05f991bc1fa6b1f804cc4135c7d83883597162b9f8940fd6d08b5a09b
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0228/A71EV2A-x0228.cif
+        sha256: ebf842064b5006318b79955e6b250114ee51620a8fc2d42fbd963e933bae9874
+        smiles: CS(=O)(=O)N1CCC(O)CC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0228/A71EV2A-x0228_1_A_147.ccp4
+        sha256: 1fb3b14122b8dca4f0b3ce20f109ee1b7e10ddd42bd3f0fc93f55f5cd5956081
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.49
+    status: new
+  A71EV2A-x0229:
+    type: model_building
+    last_updated: '2024-01-17 09:44:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z426041412
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0229/A71EV2A-x0229.pdb
+        sha256: 2ca5bc2cabfe3cb27d9927b1446f9aaadb73876b98dc1e560d0f9d94949696ff
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0229/A71EV2A-x0229.mtz
+        sha256: bd7ff0ada02ea71eea03714f92690e3d45d9e42dfe1f4e252265ecc412eabb8b
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0229/A71EV2A-x0229.cif
+        sha256: f630bf1d74c54d43bd836c102379100234c421df25bff840f725e977bab572c8
+        smiles: CS(=O)(=O)Nc1ccc(CN)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0229/A71EV2A-x0229_1_A_147.ccp4
+        sha256: 8a116c1a4019d4489f2b835ca08b07aa3332e776f51b402cff9467f83f7195cb
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.36
+      - file: upload_1/crystallographic_files/A71EV2A-x0229/A71EV2A-x0229_1_A_201.ccp4
+        sha256: 4557d7ac1cdddc28639ae7fa5e34150b86f25897219c7feee96061f8f6cf85dc
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.33
+    status: new
+  A71EV2A-x0237:
+    type: model_building
+    last_updated: '2024-03-08 13:15:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z437516460
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0237/A71EV2A-x0237.pdb
+        sha256: 9c1aad3480a264998cb3a7b24abcb94a602a15d6c4a82925e6205fe7b7603de3
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0237/A71EV2A-x0237.mtz
+        sha256: 05f16da1b9f2e6005db8be31ef2fa82ea15239df32eb4fb1d03376d4890fbda8
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0237/A71EV2A-x0237.cif
+        sha256: 085ca163b93b1ce7aa7aec8b8d4c7fe888c2b7fc9b9249f6af6808b30b366bc2
+        smiles: Cc1ccc(CNC(=O)C2CCC2)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0237/A71EV2A-x0237_1_A_151.ccp4
+        sha256: d0861a7407b7be22d6cb921a5bb6d52b91cc4a57fe0dcc8f198eea75c34c8727
+        model: '1'
+        chain: A
+        res: 151
+        index: 2
+        bdc: 0.82
+    status: new
+  A71EV2A-x0239:
+    type: model_building
+    last_updated: '2024-01-17 11:33:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z438067480
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0239/A71EV2A-x0239.pdb
+        sha256: 2aede338a9fa502f857d430354498a2882e12cfafaf60381f78d5a80c25e9490
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0239/A71EV2A-x0239.mtz
+        sha256: 98918270cc68f01184c4c67ca6ed60ed049a43b2aaab243dec78309b35a03a2e
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0239/A71EV2A-x0239.cif
+        sha256: 5dd18e87c22a7628b333f2bca6954188ab8c250706378138b31fa56e7b3b2153
+        smiles: CCC(=O)NCc1nnc2n1CCCC2
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0239/A71EV2A-x0239_1_A_147.ccp4
+        sha256: 0687d8ec3b3f24a41b86d4c6fa0ef8b29be71f4b1d87703e85994a5e399675b6
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.24
+    status: new
+  A71EV2A-x0332:
+    type: model_building
+    last_updated: '2024-01-26 08:48:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z45527714
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0332/A71EV2A-x0332.pdb
+        sha256: 3fc6ce350c5b4d614fe55977ed2eca905437613818e9d3d8d57bb7d462862ffe
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0332/A71EV2A-x0332.mtz
+        sha256: 35a72ed0a95f622de561740c45db6dc1eae5d4d38eb2a1ab4f37ae50c684f34b
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0332/A71EV2A-x0332.cif
+        sha256: d4826fe80f7b103dc4fd4ab87ad07a5faa87586e74d608d8ba71c066ffc412db
+        smiles: CNS(=O)(=O)c1ccccc1Cl
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0332/A71EV2A-x0332_1_A_147.ccp4
+        sha256: 6340cb1848e0d8aa993ec1ff47da60a678f7b29b84754e6d1744dccf9830b107
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.73
+    status: new
+  A71EV2A-x0333:
+    type: model_building
+    last_updated: '2024-01-17 09:22:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z45617795
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0333/A71EV2A-x0333.pdb
+        sha256: fa1938082f49c61ac36c9ae151f43858f9c3b36000b81eba027bc347f5a568c3
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0333/A71EV2A-x0333.mtz
+        sha256: bb321f17b61ac5192602858e6620dfb3e292b0a7b5b7e7dc5a579a7a700be8c2
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0333/A71EV2A-x0333.cif
+        sha256: 7d756bed0d332bc3bc58ae9119cbc6c08f920bd0cc48e4388923e7b93fcf7fe5
+        smiles: CS(=O)(=O)NCCc1ccccc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0333/A71EV2A-x0333_1_A_201.ccp4
+        sha256: 13e44e56dc08bc5325d1e787483463167da3772becf6652cd82ee2e0e3fe45bc
+        model: '1'
+        chain: A
+        res: 201
+        index: 1
+        bdc: 1.0
+    status: new
+  A71EV2A-x0341:
+    type: model_building
+    last_updated: '2024-01-17 09:45:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z50145861
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0341/A71EV2A-x0341.pdb
+        sha256: 09008879bbeed28dcfdf22fc9f062f82c48ae543af6cb82161e8f98068d3a1e8
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0341/A71EV2A-x0341.mtz
+        sha256: 36acb2d4d558f1ae751a2e97e32f0def503275ac5a3b1b19d8e498a32ead26ae
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0341/A71EV2A-x0341.cif
+        sha256: 3e1b0ba1225f96d45ca57ff893e285d685d6e6f102b74c80a2d24bf59d044e07
+        smiles: CC1=NN(c2ccccc2)C(=O)C1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0341/A71EV2A-x0341_1_A_147.ccp4
+        sha256: 845719dfafca8d515efe3ec67c8eeab84f8c496bd3ca540145a32808722187c8
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.92
+    status: new
+  A71EV2A-x0351:
+    type: model_building
+    last_updated: '2024-02-05 14:38:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z53860899
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0351/A71EV2A-x0351.pdb
+        sha256: a482d2c3ed24c9843d8fc107331ad948def042c4aa9b07c2fbd28d7cd3198135
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0351/A71EV2A-x0351.mtz
+        sha256: 9800cbccbae3176c9acae2195861bd580ad8d1016a0aac64cee74a3b0a9b2e1e
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0351/A71EV2A-x0351.cif
+        sha256: 09fff280787dac9d7e56db291e254afb4db69709b3e6380f48043863e9dd4940
+        smiles: CCS(=O)(=O)NCc1ccc2c(c1)OCO2
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0351/A71EV2A-x0351_1_A_201.ccp4
+        sha256: b9a09f0b160872c6d3b48ab39d710d9717577d695f315a15d0816e9f435c71c0
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.95
+      - file: upload_1/crystallographic_files/A71EV2A-x0351/A71EV2A-x0351_1_A_301.ccp4
+        sha256: 642a40e004a5db5b179abf822c1dcfbdab49301ded3b2243a4f3a0c052388e52
+        model: '1'
+        chain: A
+        res: 301
+        index: 3
+        bdc: 0.99
+      - file: upload_1/crystallographic_files/A71EV2A-x0351/A71EV2A-x0351_1_A_302.ccp4
+        sha256: 642a40e004a5db5b179abf822c1dcfbdab49301ded3b2243a4f3a0c052388e52
+        model: '1'
+        chain: A
+        res: 302
+        index: 3
+        bdc: 0.99
+    status: new
+  A71EV2A-x0354:
+    type: model_building
+    last_updated: '2024-01-17 09:46:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z54615640
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0354/A71EV2A-x0354.pdb
+        sha256: 68cc0caa996d69fcd63b4f0f3df430fb526014f960d26a4df86515b223ebdfbd
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0354/A71EV2A-x0354.mtz
+        sha256: 7dbabf1d617b0dc2f5d78eedac100c0b639622647c518e8704e3bd717f8397ac
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0354/A71EV2A-x0354.cif
+        sha256: 2ddeedffb34c51991e7744b85976682be9b108076252a9d70820244935055536
+        smiles: C[C@@]1(NC(=O)C2CC2)CCS(=O)(=O)C1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0354/A71EV2A-x0354_1_A_147.ccp4
+        sha256: cee8753ba06b4227156a726b79cef0e4d6ce95a00cb556d40a449dd848e3e3c4
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.24
+    status: new
+  A71EV2A-x0359:
+    type: model_building
+    last_updated: '2024-01-17 09:46:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z54750053
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0359/A71EV2A-x0359.pdb
+        sha256: e8cf5216f66e6adbb322eddb69edbb6fdae7fbe11efa88bbdbd6a8f936786437
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0359/A71EV2A-x0359.mtz
+        sha256: 64a86770a0fd8b1f844a30286f7fa2b748d358efe976e5f284438a26d83b716d
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0359/A71EV2A-x0359.cif
+        sha256: a8c6e7d91c0335ec013d7173ecc79c42ced3e5333e49411ef5093e988b22bf98
+        smiles: CN(C)Cc1ccc(C#N)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0359/A71EV2A-x0359_1_A_147.ccp4
+        sha256: 9a2214b9bf28e2cf71e98027a17bb92f738d3550a7650c89322c9da4a163b6e2
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.57
+    status: new
+  A71EV2A-x0365:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z558511008
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0365/A71EV2A-x0365.pdb
+        sha256: e275adf7ed27482470586f1be66b26e41cb0eae6da24fbaa73618fdbc13e8c59
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0365/A71EV2A-x0365.mtz
+        sha256: 18f706d1f6d2929aab30f33816273b7703f84cb52f08b14f37861f4cd5b88450
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0365/A71EV2A-x0365.cif
+        sha256: a49086d226fdf1a7277783e3b378dbd17aae93d8e29fef7b71b0abbb0739bd97
+        smiles: Cn1ccc(NCc2ccccc2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0365/A71EV2A-x0365_1_A_201.ccp4
+        sha256: c1d52e5eab3e0dfaf858bc19622bea8a61f7e24733799fb74cbf5c6d24e3cfe0
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.2
+    status: new
+  A71EV2A-x0375:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z56921372
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0375/A71EV2A-x0375.pdb
+        sha256: fb25efec11e9f9e646385ac16b6a669d1823056a6ec3d31e210e37bda31eb539
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0375/A71EV2A-x0375.mtz
+        sha256: 52f6ba58cadf9f2097db254d226f21e65457af1bdea8620ede075664b54ee617
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0375/A71EV2A-x0375.cif
+        sha256: 0e681e3d065f671017721e99427a472da495b2ed189e0dbf955d77cb804452ef
+        smiles: COc1ccccc1NC(N)=S
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0375/A71EV2A-x0375_1_A_147.ccp4
+        sha256: 5b0e33233dd246417a63892d3b1f3407f72b8ad3f503b8e0a6fbee3559015d3a
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.28
+      - file: upload_1/crystallographic_files/A71EV2A-x0375/A71EV2A-x0375_1_A_201.ccp4
+        sha256: 224918c651668355b9f212d28266abba3bd956c0669d29467c290d9db36be476
+        model: '1'
+        chain: A
+        res: 201
+        index: 3
+        bdc: 0.05
+      - file: upload_1/crystallographic_files/A71EV2A-x0375/A71EV2A-x0375_1_A_301.ccp4
+        sha256: 25d0a0b9f2026af0520ff20fa473e1a270df8b8a7b75c4f450e37688cd037a0d
+        model: '1'
+        chain: A
+        res: 301
+        index: 3
+        bdc: 0.2
+    status: new
+  A71EV2A-x0379:
+    type: model_building
+    last_updated: '2024-01-26 08:59:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z56960214
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0379/A71EV2A-x0379.pdb
+        sha256: 6849475209ed324cb1b2819d905f0d46ae829f1527725ed2353ebde52f916482
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0379/A71EV2A-x0379.mtz
+        sha256: 93ebb130bbed887b051981c7dab3a1e983de1bbfc0e13d0ca90cab86bc841f36
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0379/A71EV2A-x0379.cif
+        sha256: ea840b77ba4384a9852d89a3fe3b39849b6e0cab22b6fa6f402221fc5bdf02b9
+        smiles: CNCc1ccc(C(F)(F)F)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0379/A71EV2A-x0379_1_A_147.ccp4
+        sha256: 5b321147a433ced58977525aa3f7ba7c9842e5ac2d243ab78cbd51704c71e5d1
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.65
+    status: new
+  A71EV2A-x0387:
+    type: model_building
+    last_updated: '2024-03-08 13:15:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z57260516
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0387/A71EV2A-x0387.pdb
+        sha256: 11615106a3a249a39cc78c12f750e5e5b613cbda6a318804993c8677061e8d67
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0387/A71EV2A-x0387.mtz
+        sha256: 339a5d226a79d85634e11f8ecda6e55e1e19755863d67a5957c4e65a1019ff0e
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0387/A71EV2A-x0387.cif
+        sha256: eb00bbc6c1f3e75299b2d1fddd15b09675355aef18535bf46399108fe080748a
+        smiles: COCC(=O)Nc1c(C)cc(C)cc1C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0387/A71EV2A-x0387_1_A_151.ccp4
+        sha256: a11d7a14f6d0f4dd43b9c56488eba18ff1a37c2dc435ee7689c6ee4f4d24b381
+        model: '1'
+        chain: A
+        res: 151
+        index: 1
+        bdc: 0.28
+    status: new
+  A71EV2A-x0395:
+    type: model_building
+    last_updated: '2024-01-17 09:46:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z57472297
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0395/A71EV2A-x0395.pdb
+        sha256: 61c6be1fe464a05bec1b5f13ab63e70a8929b0b13827ef9013c733621eb89272
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0395/A71EV2A-x0395.mtz
+        sha256: 1fdcd18bbf9293a1813ee334d108750cf79fd6f86c3167178e6f7a141c35985c
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0395/A71EV2A-x0395.cif
+        sha256: fcab01c96ab866747a25286a8caec4a5213d046d00c69e0e230bf436be96ec38
+        smiles: CC(CO)(CO)NC(=O)Nc1ccccc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0395/A71EV2A-x0395_1_A_147.ccp4
+        sha256: c2510f5229798008f49819f4c868e04b76480d75b299c64a685e183d440bd987
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.59
+      - file: upload_1/crystallographic_files/A71EV2A-x0395/A71EV2A-x0395_1_A_148.ccp4
+        sha256: c7dfdf8e40faf9780dc43acfb5708a137c8b2312a372d065eacad82098c6a5a1
+        model: '1'
+        chain: A
+        res: 148
+        index: 1
+        bdc: 1.0
+    status: new
+  A71EV2A-x0396:
+    type: model_building
+    last_updated: '2024-01-19 15:48:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z57478994
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0396/A71EV2A-x0396.pdb
+        sha256: a4e6eb0db758d8df22c098da5cbb0dd806d1c6713eae2622684021c5303d5326
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0396/A71EV2A-x0396.mtz
+        sha256: 86b2ac359499ff3b1d03163c826a658ef41f76bd8467bc832d38c3319fb82979
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0396/A71EV2A-x0396.cif
+        sha256: 5a19114cfeca8a657743e2e675b05f7c2943aaf121103cfd9df596f59063f8ac
+        smiles: COCc1nnc(N)s1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0396/A71EV2A-x0396_1_A_147.ccp4
+        sha256: 3a90cd524710467444ee25906ea451d816654234a25c9a05fe10f509d6f0cd91
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.28
+    status: new
+  A71EV2A-x0412:
+    type: model_building
+    last_updated: '2024-01-17 09:47:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z68639747
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0412/A71EV2A-x0412.pdb
+        sha256: 8698a26e52972a156158e5b2635a88bb7a6dad15a0bd51b5675f3146cab7b309
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0412/A71EV2A-x0412.mtz
+        sha256: d29fe312529e13dd0851e75e0f18e3b702f02687d7226b00676c513c9d68154e
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0412/A71EV2A-x0412.cif
+        sha256: 01f556874f2d6f5849acb72abc304640acdfecfedd23616d5d6b9f56abd94c7a
+        smiles: CCn1c(NC(C)=O)nc2ccccc21
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0412/A71EV2A-x0412_1_A_147.ccp4
+        sha256: db28b1236337b39a6d0fd84060da16b67c44df4095ceab9e386b3d4887b50cef
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.18
+    status: new
+  A71EV2A-x0416:
+    type: model_building
+    last_updated: '2024-01-19 15:47:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z71580604
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0416/A71EV2A-x0416.pdb
+        sha256: 5e9f7db04fa92d9b81a47c62480f95a16d23a76ec19f4ceb5d4d0f3fd72d0c76
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0416/A71EV2A-x0416.mtz
+        sha256: 15df631155df3158c4d4ac7ad542d69795f698d56af00c1abba5b67b68fc100a
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0416/A71EV2A-x0416.cif
+        sha256: 016f64a9c4192c7f81001d57a7e17c379acf0b5f25692d780d4011ecd6adbbba
+        smiles: Cc1ccc(NC(=O)[C@H]2CCCO2)nc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0416/A71EV2A-x0416_1_A_147.ccp4
+        sha256: 5a778a91f8019344627c4e053b367f0da96582ea1be76f0e0b9c26c6d9212ab5
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.13
+    status: new
+  A71EV2A-x0428:
+    type: model_building
+    last_updated: '2024-01-17 09:47:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z751811134
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0428/A71EV2A-x0428.pdb
+        sha256: b3519b3e49862a0d66014f7a8b2b79d5a89285eb84158e12235bbc4d78ec2d37
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0428/A71EV2A-x0428.mtz
+        sha256: 28e2ac8730d736fb355f431ed25e4419aebfa443d33b0ee5be01f3a71c1cfdd8
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0428/A71EV2A-x0428.cif
+        sha256: b0f8a4276ba54969af7d936b069607c3a575bb44b51ef0a15a35d63077d498d2
+        smiles: CN(C)S(=O)(=O)c1cccnc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0428/A71EV2A-x0428_1_A_147.ccp4
+        sha256: 9d23d695e01b7a469d81354504ec3c8c0d250bea3a8debd09a410a54712b2437
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.89
+    status: new
+  A71EV2A-x0432:
+    type: model_building
+    last_updated: '2024-03-08 16:08:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z760031264
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0432/A71EV2A-x0432.pdb
+        sha256: 48d63aa4558fdcc027635b609f6a4ef1335a96a1bb8f73816c9b4dad271a5f01
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0432/A71EV2A-x0432.mtz
+        sha256: fc6d58893fefb69c87a459323850d30316b62e06961fbdd86a64f97d06628b96
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0432/A71EV2A-x0432.cif
+        sha256: 6cd474e86f5608e50f5aeff9add76d267df60fe371fffd46202322a6387631d5
+        smiles: Nc1ccc(-c2ncno2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0432/A71EV2A-x0432_1_A_147.ccp4
+        sha256: 04d1c31a40c0bbc3b97509149388c078df77200163c56460916afae95e89ece4
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.92
+    status: new
+  A71EV2A-x0446:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z851110644
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0446/A71EV2A-x0446.pdb
+        sha256: 210c68927a5b2309f31822bf9fc73dfaf93ee17b6f6845d944ba09410bb54e16
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0446/A71EV2A-x0446.mtz
+        sha256: eeddbd5594df36ba311468ff11f540023a1e8af0010bba944fb155e46de8d256
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0446/A71EV2A-x0446.cif
+        sha256: 8c13a05cf588e778ca3cab11364b357b5f48d17877c6a22e0db90284fc019f61
+        smiles: CNC(=O)c1cnc(C)s1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0446/A71EV2A-x0446_1_A_147.ccp4
+        sha256: 0eb1a3c0b95a271ddbd23ef04f22e5c1acd9f5bac2b0d3ed6de36e24f21af10e
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.59
+    status: new
+  A71EV2A-x0717:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z94597856
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0717/A71EV2A-x0717.pdb
+        sha256: bf78e23e40a2fef3d5b78945cb7d1dd20f20532748855e8f4f5141f615b72734
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0717/A71EV2A-x0717.mtz
+        sha256: d2bf9be9725dc928cc4bcdb1c0e4c8ebe8f0199769a190b5d011880fa1221b67
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0717/A71EV2A-x0717.cif
+        sha256: 5354a431a8f49169f5d0b665dbbaf6b3f2b369950a2db9051f7786a156270f6f
+        smiles: Cc1n[nH]c(C)c1S(=O)(=O)N(C)C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0717/A71EV2A-x0717_1_A_147.ccp4
+        sha256: 4e229944f302dc37e0b4723a590fd4bc9179710a93088cc57908647f08cdecb1
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 1.0
+    status: new
+  A71EV2A-x0719:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z954606858
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0719/A71EV2A-x0719.pdb
+        sha256: 6c887949e0e90724f6560ecd238eb4fe35305002033fb26831d419e66827ee5d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0719/A71EV2A-x0719.mtz
+        sha256: f4ff8efb6964c4ae58848bad8c5f4da95486322dbfe14bad8789e7301c9dd08c
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0719/A71EV2A-x0719.cif
+        sha256: 948336ace7c3012c07ed4cb3193edc11d087acbdab51f7c7415380c5c1c532d1
+        smiles: C[C@H](CS(N)(=O)=O)c1ccccc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0719/A71EV2A-x0719_1_A_201.ccp4
+        sha256: 18731ed46567a4b12421910d6914eb3fb99d6929e1c09527cc1000230fb82b9e
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.39
+      - file: upload_1/crystallographic_files/A71EV2A-x0719/A71EV2A-x0719_1_A_301.ccp4
+        sha256: 32f6075f10abfab07c87d8d10e60c7043a1ea9574c140a539ae2f5bce6cf0a72
+        model: '1'
+        chain: A
+        res: 301
+        index: 1
+        bdc: 0.42
+    status: new
+  A71EV2A-x0732:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z99601600
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0732/A71EV2A-x0732.pdb
+        sha256: 2b5bc7795cb14743aff4034bd887082d0be3b19d2276374bb07b21e2a1580b15
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0732/A71EV2A-x0732.mtz
+        sha256: f483ac9bdf3bfa8b299c7ab6ac48f4d2aa395291f5e98308286932d5d0ea34db
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0732/A71EV2A-x0732.cif
+        sha256: 128eb9175b4553946f20989d0540d797bd46d349f4694be03e66f841571d8b23
+        smiles: Cc1cc(C)c(NC(=O)CO)c(C)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0732/A71EV2A-x0732_1_A_201.ccp4
+        sha256: 6c339334929b10cafce30891e69ca0867fbad4a6ba5d35d0f21f0e48e7b9ee96
+        model: '1'
+        chain: A
+        res: 201
+        index: 1
+        bdc: 0.42
+    status: new
+  A71EV2A-x0739:
+    type: model_building
+    last_updated: '2024-01-17 13:42:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z17497990
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0739/A71EV2A-x0739.pdb
+        sha256: 5cb336bbb52e413514289a17779e9e837d8dde4da9c392cc3f8771306328cc3e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0739/A71EV2A-x0739.mtz
+        sha256: 3f249a4381af62dcf81fcd4ea12aae658ebdeb2bfb20f07d6a22022bfbe7c6cd
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0739/A71EV2A-x0739.cif
+        sha256: 3e1f8a880fc9170763cf2c714e2877659e20ff02bff91b53ea911fee8add2b16
+        smiles: Cc1ccc(OCC(=O)N2CCOCC2)c(C)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0739/A71EV2A-x0739_1_A_147.ccp4
+        sha256: 3c6df09a584698ca75bc3ec6ea7d066d4ac731b253262936efafdf254dca3ab8
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.05
+    status: new
+  A71EV2A-x0812:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1618027593
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0812/A71EV2A-x0812.pdb
+        sha256: 2ff185eb259126dc19fd2dc33f10b8810cc1f3b98a7ccf21ccfcaddd164decf1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0812/A71EV2A-x0812.mtz
+        sha256: 2e30738b9499cb05f126be94a6b06d38eb4754039d0d67b8ac89d6b799336370
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0812/A71EV2A-x0812.cif
+        sha256: d65e09d23bd6501782b25df1621b4cab5389f478b2868e5886c95578499bf3d2
+        smiles: Cn1nc(C(N)=O)c2ccccc21
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0812/A71EV2A-x0812_1_A_147.ccp4
+        sha256: db912e985652f9d415faf60f7404c4e8fee158c42ff0169f4bcd1ab998c7e331
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.44
+    status: new
+  A71EV2A-x0831:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z239127534
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0831/A71EV2A-x0831.pdb
+        sha256: 1b9ec5a201f8b04cb6536af0f544ba6396caec9848f66fdb2fcc4b9dce698bdd
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0831/A71EV2A-x0831.mtz
+        sha256: 2073b2d42419a2539aa22117349cfa4f6c9534d4bcd1dce8f7175b23d927391b
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0831/A71EV2A-x0831.cif
+        sha256: 0e7ed657a044f954046cda73fe2cf0fc180006eee2a030ceeaef940c2db9b20c
+        smiles: Nc1cccc(OCc2ccccc2)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0831/A71EV2A-x0831_1_A_147.ccp4
+        sha256: d1e93d95ba2ae74323af8bd22b67f29f93d65d53eea7b3759505bcc058a33599
+        model: '1'
+        chain: A
+        res: 147
+        index: 3
+        bdc: 0.47
+    status: new
+  A71EV2A-x0853:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z32367954
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0853/A71EV2A-x0853.pdb
+        sha256: 92f8222aa626248380e9d01d54408825d5cf051dcccbf5d664b87efa7ee6dc1c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0853/A71EV2A-x0853.mtz
+        sha256: c71c4c40d9727a6125b9ac4c157b7b4bf44c28e26b2c81e079aac7db6b04365f
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0853/A71EV2A-x0853.cif
+        sha256: 4c182d5bbec63809e2fde978903b9a116931f33a2a73054f697c80b79fec7a7b
+        smiles: O=C(NC1CC1)c1ccc2c(c1)OCO2
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0853/A71EV2A-x0853_1_A_147.ccp4
+        sha256: 2b4e7ce3634a5a0a1a2ce1d0938cc205d8facc8b99a2398006a780442035a669
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.05
+    status: new
+  A71EV2A-x0863:
+    type: model_building
+    last_updated: '2024-01-17 08:51:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z55993012
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0863/A71EV2A-x0863.pdb
+        sha256: ca26fe380a6325571207cfc9fb2fc079358858531c69841973d0034b697b9329
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0863/A71EV2A-x0863.mtz
+        sha256: 00bd57c1ffdded1909e52fd0f72a4cf0347a3165f6aef9a7fe01026e537edb17
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0863/A71EV2A-x0863.cif
+        sha256: 23863f2c931e348065d27fec39579dd70940e37627b17207282fe60f6f53cd42
+        smiles: CCN(CC)C(=O)c1ccc(N)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0863/A71EV2A-x0863_1_A_147.ccp4
+        sha256: bd66e2851eb3e75df13ed29ee9a6246671c2c728092c9349bbe3a4eddfad38fd
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.86
+    status: new
+  A71EV2A-x0875:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z53825020
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0875/A71EV2A-x0875.pdb
+        sha256: 7aea750bcd6ae9acf0c18de4dee9d95a6905e110c3a4673d7efb8e64e5670d3d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0875/A71EV2A-x0875.mtz
+        sha256: d7a7b8cbb654c3bdfcd1e1fb8b122a7180ca10f4d5d0c5f8633d772d61d11a01
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0875/A71EV2A-x0875.cif
+        sha256: 8e77bc991f0e06c731c9a3031d8e8e36eb57011de2b336bfbaac81037a809c66
+        smiles: CCS(=O)(=O)N1CCC(C(=O)O)CC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0875/A71EV2A-x0875_1_A_147.ccp4
+        sha256: 1771ab5dba7347c29746e595b5ba07198656695c72cf5c5948674634ea875f1f
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.38
+      - file: upload_1/crystallographic_files/A71EV2A-x0875/A71EV2A-x0875_1_A_201.ccp4
+        sha256: ff6b5ada3a688a6ff95c515dce5eaaf92671c99ce90c04d89ec45402fe474452
+        model: '1'
+        chain: A
+        res: 201
+        index: 1
+        bdc: 0.13
+    status: new
+  A71EV2A-x0884:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z198195770
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0884/A71EV2A-x0884.pdb
+        sha256: 1a2a4273e93d77f35f04f25f1c7dc0b15c08d899af753fa7074bbd7b566f4870
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0884/A71EV2A-x0884.mtz
+        sha256: ab682ebc26a3b6921f0e9560daaae120f005ebf559534939333af1742a097e0f
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0884/A71EV2A-x0884.cif
+        sha256: be9c5df1059fc3f0260ae870be266da702996eb15c83f2d73afac8e7c537cd0f
+        smiles: CC(=O)Nc1cccc(NC(N)=O)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0884/A71EV2A-x0884_1_A_147.ccp4
+        sha256: 972b07bef2e7de0227ef6d3880f32d21f3a5fa172774981827151575a518fdd6
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.44
+    status: new
+  A71EV2A-x0900:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z760031264
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0900/A71EV2A-x0900.pdb
+        sha256: 5abd701d614d220aa79d9c0df1e70de3d7c9a83743d382e9b84791f8b60000d8
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0900/A71EV2A-x0900.mtz
+        sha256: 476394d530e5113ca69ada1cb92b8fa5da14309fe58c319e3a9aae65f673c3bc
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0900/A71EV2A-x0900.cif
+        sha256: 970fd34ae79e8f845f9e7571a8626809aca4e4ec61722c225a973149968735fb
+        smiles: Nc1ccc(-c2ncno2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0900/A71EV2A-x0900_1_A_147.ccp4
+        sha256: 5bd5c682ee71129f7df0c5532998d25c7caaad002daed58db76e1dee13865e5f
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.37
+    status: new
+  A71EV2A-x0911:
+    type: model_building
+    last_updated: '2024-01-17 15:14:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1457921102
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0911/A71EV2A-x0911.pdb
+        sha256: 88a9e1215ac0f5e53085bb583fe6c109b6c24403b859bac3ce547e6d53b3717a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0911/A71EV2A-x0911.mtz
+        sha256: 70483b4355930518629d415d282f925f4aae74ec9355fabcf2baacc76e3aedde
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0911/A71EV2A-x0911.cif
+        sha256: 234ba8bd01de3ab9238c0834b969172860372940b2180861f5e57e6125657f9d
+        smiles: CN(C(=O)[C@H]1CCNC1)c1ccccc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0911/A71EV2A-x0911_1_A_147.ccp4
+        sha256: b6deb2966a5865624ce94b14c0f30852c078fe6505ba28f2ae85895ef755acef
+        model: '1'
+        chain: A
+        res: 147
+        index: 3
+        bdc: 0.18
+    status: new
+  A71EV2A-x0922:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z19733482
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x0922/A71EV2A-x0922.pdb
+        sha256: 22c71c01de59e881a18834ed76cc40e5b602b0cc78bf3afad38ff55dd6bcdfa2
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x0922/A71EV2A-x0922.mtz
+        sha256: 2f5dc8d7588307727205ce6e776d6f734014316e0d3a9b319429b4aef7e1a1c0
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x0922/A71EV2A-x0922.cif
+        sha256: 501f5e1e209022f2e4948d00bf739013262e140388c37df838120e626ed37925
+        smiles: Cc1ccccc1OCC(=O)N(C)C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x0922/A71EV2A-x0922_1_A_147.ccp4
+        sha256: 15878f233a868f15507c5757f58265522b4549805a107b233ee60ae72f19f361
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.53
+    status: new
+  A71EV2A-x1019:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: NCL-00024665
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1019/A71EV2A-x1019.pdb
+        sha256: fb4cf0c02f2e8c34ee4db7e16deda1e5431d37e8373d5f6b8a29da0f31625c46
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1019/A71EV2A-x1019.mtz
+        sha256: 8c75b5ca928218b55ff2fb0cba0f841622142ee4e57477c8d2d4170a0196c267
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1019/A71EV2A-x1019.cif
+        sha256: e9d8fd78720a69d19e93ca0ceb803e802fdb44df07b0a2ae673be39b2c7d6057
+        smiles: COc1cc(Br)ccc1CC(=O)O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1019/A71EV2A-x1019_1_A_147.ccp4
+        sha256: 7563c875ff6d296cf8684359b6489cb24ba6922b73d21d784e772ad760f9579b
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.22
+    status: new
+  A71EV2A-x1068:
+    type: model_building
+    last_updated: '2024-01-17 09:14:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1741968196
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1068/A71EV2A-x1068.pdb
+        sha256: 8fa852bc9ac34907f1ba9f1ccdfd4b17a5bc394cd4763779a68dd80696b99688
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1068/A71EV2A-x1068.mtz
+        sha256: df1a6d4d864d717738549446118c148776beb236d9878ce772dcb84156f8fec0
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1068/A71EV2A-x1068.cif
+        sha256: d86a50c147578bec585a58e3a4f8df9e30d0b493ac585d87941e1665f65c9202
+        smiles: Nc1ncccn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1068/A71EV2A-x1068_1_A_147.ccp4
+        sha256: 8b2ce7fe4578e97da112a4ed7f94b22f28712580d64c152c5e2a79045a395016
+        model: '1'
+        chain: A
+        res: 147
+        index: 3
+        bdc: 0.25
+      - file: upload_1/crystallographic_files/A71EV2A-x1068/A71EV2A-x1068_1_A_201.ccp4
+        sha256: 48d427941399908c40554624f17037050b94a36535e4c9371b21ba5e3250851f
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.08
+    status: new
+  A71EV2A-x1080:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z59181971
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1080/A71EV2A-x1080.pdb
+        sha256: c2296bae8f832dbbb1a92d8984a1a29fd8e63093f9da61a2877533bcf12d01cb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1080/A71EV2A-x1080.mtz
+        sha256: 8c2945526dcd303cfcd4db841021ad5e050ed8ef9e59bfdb78edb33a293e52e1
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1080/A71EV2A-x1080.cif
+        sha256: 80c858f691c009aef9cd5223fa5e1de3867aabde3485989422e6cf0f65c807b0
+        smiles: CCC(=O)NO
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1080/A71EV2A-x1080_1_A_201.ccp4
+        sha256: 6391ffdd79306de794db2e71a32f628d470e894727c25a4b0a159b6f9bac2920
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.52
+    status: new
+  A71EV2A-x1081:
+    type: model_building
+    last_updated: '2024-01-17 14:25:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1741976468
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1081/A71EV2A-x1081.pdb
+        sha256: 9463fbc3d2c1fffb50e22e8bbcc34d559d8e71d0cb5000885030016096f74042
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1081/A71EV2A-x1081.mtz
+        sha256: 87dd8bc71c5d6de34bdcbe1c2c473ce81ee08613de3970df4d02b366c4ff4f35
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1081/A71EV2A-x1081.cif
+        sha256: 9b20119bc61c477e44c4a6f5435ced6e1bd18bc70563eb1dbb23d38d126c99d1
+        smiles: O=C1NCCN1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1081/A71EV2A-x1081_1_A_147.ccp4
+        sha256: f31e2d8424ecb5374f32009f6680c20dbe6481ef9ab888eda099268440df3a53
+        model: '1'
+        chain: A
+        res: 147
+        index: 2
+        bdc: 0.68
+      - file: upload_1/crystallographic_files/A71EV2A-x1081/A71EV2A-x1081_1_A_201.ccp4
+        sha256: 45bab6bb1687d25ec2870be83d4b3302ee5554f4663e74dbe4be75f45335948e
+        model: '1'
+        chain: A
+        res: 201
+        index: 1
+        bdc: 0.05
+    status: new
+  A71EV2A-x1084:
+    type: model_building
+    last_updated: '2024-01-17 09:27:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1415893881
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1084/A71EV2A-x1084.pdb
+        sha256: 7cec5772522019638f74376573d154edc92161a70815583a4f0b5e97c17bfbf3
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1084/A71EV2A-x1084.mtz
+        sha256: 2cb0b0a9b94feb409c7b3ce61dd0d693a118a485fa5631cb2c59bc1983f76256
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1084/A71EV2A-x1084.cif
+        sha256: c7724dce37ccfe9ee87b015253d37d0b61b20a83bcd73fdfb45fab540cff044b
+        smiles: NC(=O)C1(N)CC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1084/A71EV2A-x1084_1_A_147.ccp4
+        sha256: f536fc87a690c91742807fb84f9a363779ef58c56194a7d5cc0715f3c42f1f87
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.27
+    status: new
+  A71EV2A-x1105:
+    type: model_building
+    last_updated: '2024-01-17 13:22:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z276142580
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1105/A71EV2A-x1105.pdb
+        sha256: 2f3d8d45c282da547f6971f19dedc3f9c850f3bf3cb2a4342b4aac7675fd6e81
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1105/A71EV2A-x1105.mtz
+        sha256: 576535d7c62bf3761e9184f5256dfa39d1200a5b5dad80b131f921e00cc7b02c
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1105/A71EV2A-x1105.cif
+        sha256: 89dd3af7474dd561be6298cd5a5e94c2323eaa293fe9b71493ec861013a98476
+        smiles: c1ccc(-c2ccncc2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1105/A71EV2A-x1105_1_A_147.ccp4
+        sha256: 8648fe57c6574b3c55f98726999408338a7db212b5204a2dec09bd1259d1ef49
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.68
+      - file: upload_1/crystallographic_files/A71EV2A-x1105/A71EV2A-x1105_1_A_148.ccp4
+        sha256: f524e69b6bc3309f95a93040f5fd37afb48dc4d987b06924903f89bbcec3a566
+        model: '1'
+        chain: A
+        res: 148
+        index: 2
+        bdc: 0.31
+    status: new
+  A71EV2A-x1109:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z315923746
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1109/A71EV2A-x1109.pdb
+        sha256: 6a8c8924accbb2c0a82ced45c5a820eadd29e1b50a6d507da2e75a5dbe71d7fe
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1109/A71EV2A-x1109.mtz
+        sha256: 108c9a930e46477fc28029223e80a8ecd35efb8d90a5e570086f7539cacfaf61
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1109/A71EV2A-x1109.cif
+        sha256: 15253bf7178ad77a35d3d98602f3a9706432a140c0bbaa11a229334bdb0c9282
+        smiles: O=C(O)c1cnc(-c2ccccc2)s1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1109/A71EV2A-x1109_1_A_147.ccp4
+        sha256: b6b7b1f59a7ad7079713da6a05092cc36c4c08760add4e4b01dfc926d73bed6f
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.05
+    status: new
+  A71EV2A-x1128:
+    type: model_building
+    last_updated: '2024-01-17 09:15:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z57663553
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1128/A71EV2A-x1128.pdb
+        sha256: 0a1b97fe2af778aac7b9b36c1c3b26e92885ad348bb482e859ba9873a4109e16
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1128/A71EV2A-x1128.mtz
+        sha256: d4eff5195993088cded16b2bda46b11f1181cbd5de44f306eef7f8e0d0af27aa
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1128/A71EV2A-x1128.cif
+        sha256: 5f420f1c66bde85f8b1cd79afd26da7d30fbf9991de2e9561c3872602fe5faed
+        smiles: Oc1nnc(-c2ccccc2)o1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1128/A71EV2A-x1128_1_A_147.ccp4
+        sha256: 01a80b3069a92d8d91ba8ffe95cf900607f30689cf8e10cc9b0fc7eb123e792d
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.28
+    status: new
+  A71EV2A-x1140:
+    type: model_building
+    last_updated: '2024-01-17 11:20:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z56042334
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1140/A71EV2A-x1140.pdb
+        sha256: e01d69e6dd905d3bf428f6d9264efd85daae398818c5c439be937c82cc3d8c97
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1140/A71EV2A-x1140.mtz
+        sha256: 50be08026a6f2107ddb60fe3e466a525a9ad7f4e1a9ac11baffe4f1870bd4dad
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1140/A71EV2A-x1140.cif
+        sha256: 75aace3d863654cbfc748f493daa5721cea8be868584d4f34e54a27f47adeabe
+        smiles: O=C(CN1CCCC1)c1ccccc1Cl
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1140/A71EV2A-x1140_1_A_147.ccp4
+        sha256: f6685d938fd80ca8890f8ae4343e4fec4f92577494033a6cf83a2ea1d2c7c1f8
+        model: '1'
+        chain: A
+        res: 147
+        index: 3
+        bdc: 0.42
+    status: new
+  A71EV2A-x1145:
+    type: model_building
+    last_updated: '2024-01-17 09:15:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z969111002
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1145/A71EV2A-x1145.pdb
+        sha256: af232d1cae44e8adbda8727549e0d5fe36ef9be7a62535b3a187758a4442e839
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1145/A71EV2A-x1145.mtz
+        sha256: b007163704c529f34b0193e2376955d296ed0e8cebcbbed667f06b6869cfa7ac
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1145/A71EV2A-x1145.cif
+        sha256: bf450a2ba55e593b634935f7c6b759423b5cc100994521d9a7f40dad00a1838b
+        smiles: Fc1ccc(C[C@@H]2CCCNC2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1145/A71EV2A-x1145_1_A_147.ccp4
+        sha256: 3c6417d8ef6e5907621b7a642844c7f6bf881c17bcdb7b5269e2fc261c0fd4ec
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.58
+      - file: upload_1/crystallographic_files/A71EV2A-x1145/A71EV2A-x1145_1_A_201.ccp4
+        sha256: 5d7bd310736a4a6730e7e04afdebd07d497ae610718284eb7b651a759728a093
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 0.05
+    status: new
+  A71EV2A-x1146:
+    type: model_building
+    last_updated: '2024-01-17 08:30:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z362043378
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1146/A71EV2A-x1146.pdb
+        sha256: 9698e8aeabba00493423a1591b55f8b98d20035d585e8fb576036fd119a55f3e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1146/A71EV2A-x1146.mtz
+        sha256: 83b6b09fca7c2ea03c0df1c096b28a3c35305367566d807e0ed697bd7b8d9feb
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1146/A71EV2A-x1146.cif
+        sha256: 7e5df969276d595f9eab00319bb567f81a8389c285e40c2451241f1b629b880f
+        smiles: Oc1cnc(-c2ccccc2)nc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1146/A71EV2A-x1146_1_A_147.ccp4
+        sha256: ff52abb32cfa12876f94bf1cb40af684496e25d8527de558379c4362d4ec71ec
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.22
+    status: new
+  A71EV2A-x1148:
+    type: model_building
+    last_updated: '2024-03-01 08:35:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1213725191
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1148/A71EV2A-x1148.pdb
+        sha256: 21051bee1cb90b9a362487016258dc052df44225b024083ed319532ce7b96c92
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1148/A71EV2A-x1148.mtz
+        sha256: d8b7a63275f2c56b6c5e3e46c647d95e951092f991559af38f11d5e05200add9
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1148/A71EV2A-x1148.cif
+        sha256: 594922ee0dfb50f569abd2ff52b2e8bd33e25eaeb44b27f360422efbb1341151
+        smiles: Brc1c[nH]cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1148/A71EV2A-x1148_1_A_147.ccp4
+        sha256: cfd8c6c8127164533f118736c835287c621ec9ed685bd6816b4b9fee4b707cf8
+        model: '1'
+        chain: A
+        res: 147
+        index: 1
+        bdc: 0.05
+      - file: upload_1/crystallographic_files/A71EV2A-x1148/A71EV2A-x1148_1_A_201.ccp4
+        sha256: ba6fa0fab8325eb24490b7a291c045983b172a18a7ad18ec4026b960020dd7f5
+        model: '1'
+        chain: A
+        res: 201
+        index: 2
+        bdc: 1.0
+    status: new
+  A71EV2A-x1169:
+    type: model_building
+    last_updated: '2024-03-08 13:16:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1143441220
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1169/A71EV2A-x1169.pdb
+        sha256: a2c27a2d60e9fc07356b14a5af13bff6b9a310a67a1f566daf6dc299695e016a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1169/A71EV2A-x1169.mtz
+        sha256: 39fbcc8e1471cd49032ab27858d6e540b5ec499b5ccd0d33ca50f6a979663699
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1169/A71EV2A-x1169.cif
+        sha256: 91ee350e77e06d38f25bc085accce990d09cc6a484dbe1be8fcc1affe58de670
+        smiles: N#Cc1cocn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1169/A71EV2A-x1169_1_A_151.ccp4
+        sha256: 5c9ef1c63dc8107a1adf27a5a3d4de89910ef3415d599017aeb820745a0a428b
+        model: '1'
+        chain: A
+        res: 151
+        index: 2
+        bdc: 1.0
+    status: new
+  A71EV2A-x1180:
+    type: model_building
+    last_updated: '2024-03-08 13:16:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1198183601
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1180/A71EV2A-x1180.pdb
+        sha256: 8aa54fa7fd60fff87ac35761733ba60ea590d8c204d5fe74a4f92b73ccb97fb1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1180/A71EV2A-x1180.mtz
+        sha256: c52a0aa2d09509962242172e42ff67952d54d81a686c4a7ca69ef42dfdab350f
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1180/A71EV2A-x1180.cif
+        sha256: cac6af8acc26317ae23028a6e9f5398a4b901dac906f7ed6dbf203f535640952
+        smiles: Clc1c[nH]cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1180/A71EV2A-x1180_1_A_151.ccp4
+        sha256: da371fd2629e986cb3318fd91501a56c47f796e380f8815a0d5c698d7bd99886
+        model: '1'
+        chain: A
+        res: 151
+        index: 1
+        bdc: 0.61
+      - file: upload_1/crystallographic_files/A71EV2A-x1180/A71EV2A-x1180_1_B_151.ccp4
+        sha256: da371fd2629e986cb3318fd91501a56c47f796e380f8815a0d5c698d7bd99886
+        model: '1'
+        chain: B
+        res: 151
+        index: 1
+        bdc: 0.61
+    status: new
+  A71EV2A-x1209:
+    type: model_building
+    last_updated: '2024-03-08 13:16:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z1203730981
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1209/A71EV2A-x1209.pdb
+        sha256: 579d4ea22925e8e80a466461bd84ef7bbb8b6c9532bbd3fe74632751218fca2b
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1209/A71EV2A-x1209.mtz
+        sha256: 559ef8a4568be5a5acdf84f86c4adba7f2b3208bb8c08920c4ffa4064dddd17c
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1209/A71EV2A-x1209.cif
+        sha256: b9200abc330953fffd80617a7e6fc218065205cb033281459a379c23c8731a21
+        smiles: Brc1ncc[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1209/A71EV2A-x1209_1_A_151.ccp4
+        sha256: 0a52315fc3419c226aa147da7ed74babee363ba91628cfaa0f0b1329bfcd03ab
+        model: '1'
+        chain: A
+        res: 151
+        index: 1
+        bdc: 1.0
+    status: new
+  A71EV2A-x1255:
+    type: model_building
+    last_updated: '2024-03-08 13:16:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: NCL-00024387
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1255/A71EV2A-x1255.pdb
+        sha256: 71cfa8b76e1d79cad229c837b27a26bb74ae5b0d45510d24a30abf2f1a240667
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1255/A71EV2A-x1255.mtz
+        sha256: b6e8769daeaca0f2d351ce720170189f269d5ac72eeef05bac13771f1a4172d9
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1255/A71EV2A-x1255.cif
+        sha256: b70fa01bef3f08368bb8af4e03b269faca06cb5e23b2ec780df6443eb2c3e9e7
+        smiles: COCCn1ccc(Br)cc1=O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1255/A71EV2A-x1255_1_B_201.ccp4
+        sha256: c3734cd86d66686984ed54924c414e45a09f6ac9cc340bcf780b0724b6602b95
+        model: '1'
+        chain: B
+        res: 201
+        index: 1
+        bdc: 0.11
+    status: new
+  A71EV2A-x1292:
+    type: model_building
+    last_updated: '2024-03-11 14:25:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z57473948
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1292/A71EV2A-x1292.pdb
+        sha256: 6211251007997fa7e43f927cd66953c6afd32c5359828a5d9cfd1266c3838bc3
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1292/A71EV2A-x1292.mtz
+        sha256: 650ce3a293ce1a207f7124bc6123be5ca98d82d8e008fbc17d9f43f159bad057
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1292/A71EV2A-x1292.cif
+        sha256: 7fcbce17062575d35140fcd92c485833979ae8a63d479698639a294002c65a21
+        smiles: O=C(NC1CC1)c1ccccc1O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1292/A71EV2A-x1292_1_A_151.ccp4
+        sha256: 25c0b83a9f1310952a6ed672613bc8d05c05702559b47af6573ecc7994a71953
+        model: '1'
+        chain: A
+        res: 151
+        index: 1
+        bdc: 0.13
+    status: new
+  A71EV2A-x1293:
+    type: model_building
+    last_updated: '2024-03-08 15:26:00'
+    refinement_outcome: 4 - CompChem ready
+    compound_code: Z362020366
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x1293/A71EV2A-x1293.pdb
+        sha256: 952e978c88f728fd64af1a5b6a708ed1f39e7d05cc17d34ad96f4874034f54d8
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2A-x1293/A71EV2A-x1293.mtz
+        sha256: d9c427780414fabce88b2050e8dd65303cc5fd28609f98babb3111ab69a91c0f
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2A-x1293/A71EV2A-x1293.cif
+        sha256: 1aa31cf08363099b6ae5f21789c87ccebeb579e14aaeb95735e0ae08c93b6db5
+        smiles: Nc1nnc2ccccn12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/A71EV2A-x1293/A71EV2A-x1293_1_A_151.ccp4
+        sha256: 88aa12dcab308db6ce2bf4ad61e6c5e8c1487498640b4b4e0dbb98e0461333c3
+        model: '1'
+        chain: A
+        res: 151
+        index: 1
+        bdc: 0.17
+    status: new
+  A71_2A_x0090_ref_7_monomer:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer.pdb
+        sha256: b34e97503f895f652df87658c1b9f1e33e426c74243568e994b795a0b1882cc3
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer.mtz
+        sha256: 5b89db47ad6d16ce33658e865394def710fcde534a5bc7a6181d4dd223601b80
+    status: new
+  long_cell:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/long_cell/long_cell.pdb
+        sha256: f1193b19b2afa59636a0cb220edd8b997dba68c1484790c04f77aee545eadff5
+      xtal_mtz:
+        file: upload_1/crystallographic_files/long_cell/long_cell.mtz
+        sha256: 25a5d92fc0d26dc80998f67a16e5dca5ab9f577e26661e2441d8e193d6e022fa
+    status: new
+  small_cell:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/small_cell/small_cell.pdb
+        sha256: f3a8c45604a9ee4e2a63136bbe57cd1ad89f20298d6bc42acaa3706dd5062e22
+      xtal_mtz:
+        file: upload_1/crystallographic_files/small_cell/small_cell.mtz
+        sha256: d79b9b58b673482d203f8464d47e2dd87d59b51711230edfa86ae7ca27148a47
+    status: new

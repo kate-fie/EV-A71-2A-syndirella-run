@@ -1,0 +1,1559 @@
+alignability_graph: upload_1/alignability.gml
+alignments:
+  A71EV2A-x0152:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_201_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_201_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_201_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_201_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0152/A71EV2A-x0152_A_201_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x0188:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0188/A71EV2A-x0188_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0188/A71EV2A-x0188_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0188/A71EV2A-x0188_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0188/A71EV2A-x0188_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0188/A71EV2A-x0188_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0194:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0194/A71EV2A-x0194_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0194/A71EV2A-x0194_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0194/A71EV2A-x0194_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0194/A71EV2A-x0194_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0194/A71EV2A-x0194_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x0202:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_201_A71EV2A-x0488+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_201_A71EV2A-x0488+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_201_A71EV2A-x0488+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_201_A71EV2A-x0488+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0202/A71EV2A-x0202_A_201_A71EV2A-x0488+A+147+1_sigmaa.ccp4
+  A71EV2A-x0207:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0207/A71EV2A-x0207_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0207/A71EV2A-x0207_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0207/A71EV2A-x0207_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0207/A71EV2A-x0207_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0207/A71EV2A-x0207_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0228:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0228/A71EV2A-x0228_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0228/A71EV2A-x0228_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0228/A71EV2A-x0228_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0228/A71EV2A-x0228_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0228/A71EV2A-x0228_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0229:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_201_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_201_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_201_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_201_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0229/A71EV2A-x0229_A_201_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0237:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0237/A71EV2A-x0237_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0237/A71EV2A-x0237_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0237/A71EV2A-x0237_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0237/A71EV2A-x0237_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0237/A71EV2A-x0237_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0239:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0239/A71EV2A-x0239_A_147_A71EV2A-x0486+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0239/A71EV2A-x0239_A_147_A71EV2A-x0486+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0239/A71EV2A-x0239_A_147_A71EV2A-x0486+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0239/A71EV2A-x0239_A_147_A71EV2A-x0486+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0239/A71EV2A-x0239_A_147_A71EV2A-x0486+A+147+1_sigmaa.ccp4
+  A71EV2A-x0269:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0269/A71EV2A-x0269_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0269/A71EV2A-x0269_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0269/A71EV2A-x0269_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0269/A71EV2A-x0269_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0269/A71EV2A-x0269_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x0278:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0278/A71EV2A-x0278_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0305:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0305/A71EV2A-x0305_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0305/A71EV2A-x0305_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0305/A71EV2A-x0305_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0305/A71EV2A-x0305_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0305/A71EV2A-x0305_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0309:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0309/A71EV2A-x0309_A_147_A71EV2A-x0486+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0309/A71EV2A-x0309_A_147_A71EV2A-x0486+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0309/A71EV2A-x0309_A_147_A71EV2A-x0486+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0309/A71EV2A-x0309_A_147_A71EV2A-x0486+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0309/A71EV2A-x0309_A_147_A71EV2A-x0486+A+147+1_sigmaa.ccp4
+  A71EV2A-x0310:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0310/A71EV2A-x0310_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0310/A71EV2A-x0310_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0310/A71EV2A-x0310_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0310/A71EV2A-x0310_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0310/A71EV2A-x0310_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0332:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0332/A71EV2A-x0332_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0332/A71EV2A-x0332_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0332/A71EV2A-x0332_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0332/A71EV2A-x0332_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0332/A71EV2A-x0332_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0333:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0333/A71EV2A-x0333_A_201_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0333/A71EV2A-x0333_A_201_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0333/A71EV2A-x0333_A_201_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0333/A71EV2A-x0333_A_201_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0333/A71EV2A-x0333_A_201_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+  A71EV2A-x0341:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0341/A71EV2A-x0341_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0341/A71EV2A-x0341_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0341/A71EV2A-x0341_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0341/A71EV2A-x0341_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0341/A71EV2A-x0341_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x0351:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_201_A71EV2A-x0432+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_201_A71EV2A-x0432+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_201_A71EV2A-x0432+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_201_A71EV2A-x0432+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_201_A71EV2A-x0432+A+147+1_sigmaa.ccp4
+      '301':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_301_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_301_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_301_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_301_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_301_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+      '302':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_302_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_302_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_302_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_302_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0351/A71EV2A-x0351_A_302_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+  A71EV2A-x0354:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0354/A71EV2A-x0354_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0354/A71EV2A-x0354_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0354/A71EV2A-x0354_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0354/A71EV2A-x0354_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0354/A71EV2A-x0354_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0359:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0359/A71EV2A-x0359_A_147_A71EV2A-x0469+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0359/A71EV2A-x0359_A_147_A71EV2A-x0469+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0359/A71EV2A-x0359_A_147_A71EV2A-x0469+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0359/A71EV2A-x0359_A_147_A71EV2A-x0469+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0359/A71EV2A-x0359_A_147_A71EV2A-x0469+A+147+1_sigmaa.ccp4
+  A71EV2A-x0365:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0365/A71EV2A-x0365_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0365/A71EV2A-x0365_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0365/A71EV2A-x0365_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0365/A71EV2A-x0365_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0365/A71EV2A-x0365_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0375:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+      '301':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_301_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_301_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_301_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_301_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0375/A71EV2A-x0375_A_301_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0379:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0379+A+147+1: upload_1/aligned_files/A71EV2A-x0379/A71EV2A-x0379_A_147_A71EV2A-x0379+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0379+A+147+1: upload_1/aligned_files/A71EV2A-x0379/A71EV2A-x0379_A_147_A71EV2A-x0379+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0379+A+147+1: upload_1/aligned_files/A71EV2A-x0379/A71EV2A-x0379_A_147_A71EV2A-x0379+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0379+A+147+1: upload_1/aligned_files/A71EV2A-x0379/A71EV2A-x0379_A_147_A71EV2A-x0379+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0379+A+147+1: upload_1/aligned_files/A71EV2A-x0379/A71EV2A-x0379_A_147_A71EV2A-x0379+A+147+1_sigmaa.ccp4
+  A71EV2A-x0387:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0387/A71EV2A-x0387_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0387/A71EV2A-x0387_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0387/A71EV2A-x0387_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0387/A71EV2A-x0387_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0387/A71EV2A-x0387_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0395:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+      '148':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_148_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_148_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_148_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_148_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0395/A71EV2A-x0395_A_148_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x0396:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0396+A+147+1: upload_1/aligned_files/A71EV2A-x0396/A71EV2A-x0396_A_147_A71EV2A-x0396+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0396+A+147+1: upload_1/aligned_files/A71EV2A-x0396/A71EV2A-x0396_A_147_A71EV2A-x0396+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0396+A+147+1: upload_1/aligned_files/A71EV2A-x0396/A71EV2A-x0396_A_147_A71EV2A-x0396+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0396+A+147+1: upload_1/aligned_files/A71EV2A-x0396/A71EV2A-x0396_A_147_A71EV2A-x0396+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0396+A+147+1: upload_1/aligned_files/A71EV2A-x0396/A71EV2A-x0396_A_147_A71EV2A-x0396+A+147+1_sigmaa.ccp4
+  A71EV2A-x0412:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0412+A+147+1: upload_1/aligned_files/A71EV2A-x0412/A71EV2A-x0412_A_147_A71EV2A-x0412+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0412+A+147+1: upload_1/aligned_files/A71EV2A-x0412/A71EV2A-x0412_A_147_A71EV2A-x0412+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0412+A+147+1: upload_1/aligned_files/A71EV2A-x0412/A71EV2A-x0412_A_147_A71EV2A-x0412+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0412+A+147+1: upload_1/aligned_files/A71EV2A-x0412/A71EV2A-x0412_A_147_A71EV2A-x0412+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0412+A+147+1: upload_1/aligned_files/A71EV2A-x0412/A71EV2A-x0412_A_147_A71EV2A-x0412+A+147+1_sigmaa.ccp4
+  A71EV2A-x0416:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0416/A71EV2A-x0416_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0416/A71EV2A-x0416_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0416/A71EV2A-x0416_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0416/A71EV2A-x0416_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0416/A71EV2A-x0416_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0428:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0428/A71EV2A-x0428_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0428/A71EV2A-x0428_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0428/A71EV2A-x0428_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0428/A71EV2A-x0428_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0428/A71EV2A-x0428_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0432:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0432/A71EV2A-x0432_A_147_A71EV2A-x0432+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0432/A71EV2A-x0432_A_147_A71EV2A-x0432+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0432/A71EV2A-x0432_A_147_A71EV2A-x0432+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0432/A71EV2A-x0432_A_147_A71EV2A-x0432+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0432+A+147+1: upload_1/aligned_files/A71EV2A-x0432/A71EV2A-x0432_A_147_A71EV2A-x0432+A+147+1_sigmaa.ccp4
+  A71EV2A-x0446:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0446/A71EV2A-x0446_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0446/A71EV2A-x0446_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0446/A71EV2A-x0446_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0446/A71EV2A-x0446_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0446/A71EV2A-x0446_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0450:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0450/A71EV2A-x0450_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0450/A71EV2A-x0450_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0450/A71EV2A-x0450_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0450/A71EV2A-x0450_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0450/A71EV2A-x0450_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0451:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0451/A71EV2A-x0451_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0451/A71EV2A-x0451_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0451/A71EV2A-x0451_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0451/A71EV2A-x0451_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0451/A71EV2A-x0451_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0469:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0469/A71EV2A-x0469_A_147_A71EV2A-x0469+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0469/A71EV2A-x0469_A_147_A71EV2A-x0469+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0469/A71EV2A-x0469_A_147_A71EV2A-x0469+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0469/A71EV2A-x0469_A_147_A71EV2A-x0469+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0469+A+147+1: upload_1/aligned_files/A71EV2A-x0469/A71EV2A-x0469_A_147_A71EV2A-x0469+A+147+1_sigmaa.ccp4
+  A71EV2A-x0473:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0473/A71EV2A-x0473_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0473/A71EV2A-x0473_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0473/A71EV2A-x0473_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0473/A71EV2A-x0473_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0473/A71EV2A-x0473_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0486:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0486/A71EV2A-x0486_A_147_A71EV2A-x0486+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0486/A71EV2A-x0486_A_147_A71EV2A-x0486+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0486/A71EV2A-x0486_A_147_A71EV2A-x0486+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0486/A71EV2A-x0486_A_147_A71EV2A-x0486+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0486/A71EV2A-x0486_A_147_A71EV2A-x0486+A+147+1_sigmaa.ccp4
+  A71EV2A-x0488:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0488/A71EV2A-x0488_A_147_A71EV2A-x0488+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0488/A71EV2A-x0488_A_147_A71EV2A-x0488+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0488/A71EV2A-x0488_A_147_A71EV2A-x0488+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0488/A71EV2A-x0488_A_147_A71EV2A-x0488+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x0488/A71EV2A-x0488_A_147_A71EV2A-x0488+A+147+1_sigmaa.ccp4
+  A71EV2A-x0497:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0497/A71EV2A-x0497_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0497/A71EV2A-x0497_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0497/A71EV2A-x0497_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0497/A71EV2A-x0497_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0497/A71EV2A-x0497_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x0501:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+      '152':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_152_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_152_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_152_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_152_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0501/A71EV2A-x0501_A_152_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0514:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_A_151_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_A_151_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_A_151_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_A_151_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_A_151_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+    B:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_B_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_B_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_B_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_B_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0514/A71EV2A-x0514_B_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0515:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0515/A71EV2A-x0515_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0517:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0517/A71EV2A-x0517_A_147_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0517/A71EV2A-x0517_A_147_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0517/A71EV2A-x0517_A_147_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0517/A71EV2A-x0517_A_147_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0517/A71EV2A-x0517_A_147_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+  A71EV2A-x0525:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0525/A71EV2A-x0525_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0525/A71EV2A-x0525_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0525/A71EV2A-x0525_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0525/A71EV2A-x0525_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0525/A71EV2A-x0525_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0526:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0526/A71EV2A-x0526_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0526/A71EV2A-x0526_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0526/A71EV2A-x0526_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0526/A71EV2A-x0526_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0526/A71EV2A-x0526_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0528:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_201_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_201_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_201_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_201_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0528/A71EV2A-x0528_A_201_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+  A71EV2A-x0540:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0540/A71EV2A-x0540_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0540/A71EV2A-x0540_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0540/A71EV2A-x0540_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0540/A71EV2A-x0540_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0540/A71EV2A-x0540_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0541:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0541/A71EV2A-x0541_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0541/A71EV2A-x0541_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0541/A71EV2A-x0541_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0541/A71EV2A-x0541_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0541/A71EV2A-x0541_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0554:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0554+A+147+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_147_A71EV2A-x0554+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0554+A+147+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_147_A71EV2A-x0554+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0554+A+147+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_147_A71EV2A-x0554+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0554+A+147+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_147_A71EV2A-x0554+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0554+A+147+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_147_A71EV2A-x0554+A+147+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0554/A71EV2A-x0554_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0556:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0556/A71EV2A-x0556_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0556/A71EV2A-x0556_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0556/A71EV2A-x0556_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0556/A71EV2A-x0556_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0556/A71EV2A-x0556_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0566:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0566/A71EV2A-x0566_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0566/A71EV2A-x0566_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0566/A71EV2A-x0566_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0566/A71EV2A-x0566_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0566/A71EV2A-x0566_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0571:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0571+A+147+1: upload_1/aligned_files/A71EV2A-x0571/A71EV2A-x0571_A_147_A71EV2A-x0571+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0571+A+147+1: upload_1/aligned_files/A71EV2A-x0571/A71EV2A-x0571_A_147_A71EV2A-x0571+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0571+A+147+1: upload_1/aligned_files/A71EV2A-x0571/A71EV2A-x0571_A_147_A71EV2A-x0571+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0571+A+147+1: upload_1/aligned_files/A71EV2A-x0571/A71EV2A-x0571_A_147_A71EV2A-x0571+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0571+A+147+1: upload_1/aligned_files/A71EV2A-x0571/A71EV2A-x0571_A_147_A71EV2A-x0571+A+147+1_sigmaa.ccp4
+  A71EV2A-x0586:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0586/A71EV2A-x0586_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0586/A71EV2A-x0586_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0586/A71EV2A-x0586_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0586/A71EV2A-x0586_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0586/A71EV2A-x0586_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0608:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0608/A71EV2A-x0608_A_147_A71EV2A-x0486+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0608/A71EV2A-x0608_A_147_A71EV2A-x0486+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0608/A71EV2A-x0608_A_147_A71EV2A-x0486+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0608/A71EV2A-x0608_A_147_A71EV2A-x0486+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0486+A+147+1: upload_1/aligned_files/A71EV2A-x0608/A71EV2A-x0608_A_147_A71EV2A-x0486+A+147+1_sigmaa.ccp4
+  A71EV2A-x0691:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0691/A71EV2A-x0691_A_201_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0691/A71EV2A-x0691_A_201_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0691/A71EV2A-x0691_A_201_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0691/A71EV2A-x0691_A_201_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0691/A71EV2A-x0691_A_201_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0717:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0717/A71EV2A-x0717_A_147_A71EV2A-x0541+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0717/A71EV2A-x0717_A_147_A71EV2A-x0541+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0717/A71EV2A-x0717_A_147_A71EV2A-x0541+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0717/A71EV2A-x0717_A_147_A71EV2A-x0541+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0541+A+147+1: upload_1/aligned_files/A71EV2A-x0717/A71EV2A-x0717_A_147_A71EV2A-x0541+A+147+1_sigmaa.ccp4
+  A71EV2A-x0719:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_201_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_201_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_201_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_201_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_201_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+      '301':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_301_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_301_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_301_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_301_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0719/A71EV2A-x0719_A_301_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0732:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0732/A71EV2A-x0732_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0732/A71EV2A-x0732_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0732/A71EV2A-x0732_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0732/A71EV2A-x0732_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0732/A71EV2A-x0732_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0739:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0739/A71EV2A-x0739_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0739/A71EV2A-x0739_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0739/A71EV2A-x0739_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0739/A71EV2A-x0739_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0739/A71EV2A-x0739_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0812:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0812/A71EV2A-x0812_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0812/A71EV2A-x0812_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0812/A71EV2A-x0812_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0812/A71EV2A-x0812_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0812/A71EV2A-x0812_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0831:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0831/A71EV2A-x0831_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0831/A71EV2A-x0831_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0831/A71EV2A-x0831_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0831/A71EV2A-x0831_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0831/A71EV2A-x0831_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x0853:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0853/A71EV2A-x0853_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0853/A71EV2A-x0853_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0853/A71EV2A-x0853_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0853/A71EV2A-x0853_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0853/A71EV2A-x0853_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0863:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0863/A71EV2A-x0863_A_147_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0863/A71EV2A-x0863_A_147_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0863/A71EV2A-x0863_A_147_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0863/A71EV2A-x0863_A_147_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x0863/A71EV2A-x0863_A_147_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+  A71EV2A-x0875:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0875/A71EV2A-x0875_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0884:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0884/A71EV2A-x0884_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0884/A71EV2A-x0884_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0884/A71EV2A-x0884_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0884/A71EV2A-x0884_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0884/A71EV2A-x0884_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0900:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x0900/A71EV2A-x0900_A_147_A71EV2A-x0900+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x0900/A71EV2A-x0900_A_147_A71EV2A-x0900+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x0900/A71EV2A-x0900_A_147_A71EV2A-x0900+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x0900/A71EV2A-x0900_A_147_A71EV2A-x0900+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x0900/A71EV2A-x0900_A_147_A71EV2A-x0900+A+147+1_sigmaa.ccp4
+  A71EV2A-x0911:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0911/A71EV2A-x0911_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0911/A71EV2A-x0911_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0911/A71EV2A-x0911_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0911/A71EV2A-x0911_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0911/A71EV2A-x0911_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x0922:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0922/A71EV2A-x0922_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0922/A71EV2A-x0922_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0922/A71EV2A-x0922_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0922/A71EV2A-x0922_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x0922/A71EV2A-x0922_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1019:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1019/A71EV2A-x1019_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1019/A71EV2A-x1019_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1019/A71EV2A-x1019_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1019/A71EV2A-x1019_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1019/A71EV2A-x1019_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1068:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x1068+A+147+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_147_A71EV2A-x1068+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x1068+A+147+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_147_A71EV2A-x1068+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x1068+A+147+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_147_A71EV2A-x1068+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x1068+A+147+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_147_A71EV2A-x1068+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x1068+A+147+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_147_A71EV2A-x1068+A+147+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_201_A71EV2A-x1068+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_201_A71EV2A-x1068+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_201_A71EV2A-x1068+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_201_A71EV2A-x1068+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1068/A71EV2A-x1068_A_201_A71EV2A-x1068+A+201+1_sigmaa.ccp4
+  A71EV2A-x1080:
+    A:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1080/A71EV2A-x1080_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1080/A71EV2A-x1080_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1080/A71EV2A-x1080_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1080/A71EV2A-x1080_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1080/A71EV2A-x1080_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1081:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_147_A71EV2A-x0488+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_147_A71EV2A-x0488+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_147_A71EV2A-x0488+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_147_A71EV2A-x0488+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_147_A71EV2A-x0488+A+147+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_201_A71EV2A-x1068+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_201_A71EV2A-x1068+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_201_A71EV2A-x1068+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_201_A71EV2A-x1068+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x1068+A+201+1: upload_1/aligned_files/A71EV2A-x1081/A71EV2A-x1081_A_201_A71EV2A-x1068+A+201+1_sigmaa.ccp4
+  A71EV2A-x1084:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1084/A71EV2A-x1084_A_147_A71EV2A-x0488+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1084/A71EV2A-x1084_A_147_A71EV2A-x0488+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1084/A71EV2A-x1084_A_147_A71EV2A-x0488+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1084/A71EV2A-x1084_A_147_A71EV2A-x0488+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0488+A+147+1: upload_1/aligned_files/A71EV2A-x1084/A71EV2A-x1084_A_147_A71EV2A-x0488+A+147+1_sigmaa.ccp4
+  A71EV2A-x1105:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+      '148':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_148_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_148_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_148_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_148_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1105/A71EV2A-x1105_A_148_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x1109:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1109/A71EV2A-x1109_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1109/A71EV2A-x1109_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1109/A71EV2A-x1109_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1109/A71EV2A-x1109_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1109/A71EV2A-x1109_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x1128:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x1128/A71EV2A-x1128_A_147_A71EV2A-x0900+A+147+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x1128/A71EV2A-x1128_A_147_A71EV2A-x0900+A+147+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x1128/A71EV2A-x1128_A_147_A71EV2A-x0900+A+147+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x1128/A71EV2A-x1128_A_147_A71EV2A-x0900+A+147+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0900+A+147+1: upload_1/aligned_files/A71EV2A-x1128/A71EV2A-x1128_A_147_A71EV2A-x0900+A+147+1_sigmaa.ccp4
+  A71EV2A-x1140:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1140/A71EV2A-x1140_A_147_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1140/A71EV2A-x1140_A_147_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1140/A71EV2A-x1140_A_147_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1140/A71EV2A-x1140_A_147_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1140/A71EV2A-x1140_A_147_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1145:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_147_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_147_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_147_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_147_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_147_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_201_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_201_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_201_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_201_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1145/A71EV2A-x1145_A_201_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+  A71EV2A-x1146:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1146/A71EV2A-x1146_A_147_A71EV2A-x0528+A+201+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1146/A71EV2A-x1146_A_147_A71EV2A-x0528+A+201+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1146/A71EV2A-x1146_A_147_A71EV2A-x0528+A+201+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1146/A71EV2A-x1146_A_147_A71EV2A-x0528+A+201+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0528+A+201+1: upload_1/aligned_files/A71EV2A-x1146/A71EV2A-x1146_A_147_A71EV2A-x0528+A+201+1_sigmaa.ccp4
+  A71EV2A-x1148:
+    A:
+      '147':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_147_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_147_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_147_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_147_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_147_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1148/A71EV2A-x1148_A_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1169:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1169/A71EV2A-x1169_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1169/A71EV2A-x1169_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1169/A71EV2A-x1169_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1169/A71EV2A-x1169_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1169/A71EV2A-x1169_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1180:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+    B:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_B_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_B_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_B_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_B_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1180/A71EV2A-x1180_B_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1209:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1209/A71EV2A-x1209_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1209/A71EV2A-x1209_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1209/A71EV2A-x1209_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1209/A71EV2A-x1209_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1209/A71EV2A-x1209_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1255:
+    B:
+      '201':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1255/A71EV2A-x1255_B_201_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1255/A71EV2A-x1255_B_201_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1255/A71EV2A-x1255_B_201_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1255/A71EV2A-x1255_B_201_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1255/A71EV2A-x1255_B_201_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1292:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1292/A71EV2A-x1292_A_151_A71EV2A-x0501+A+152+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1292/A71EV2A-x1292_A_151_A71EV2A-x0501+A+152+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1292/A71EV2A-x1292_A_151_A71EV2A-x0501+A+152+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1292/A71EV2A-x1292_A_151_A71EV2A-x0501+A+152+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0501+A+152+1: upload_1/aligned_files/A71EV2A-x1292/A71EV2A-x1292_A_151_A71EV2A-x0501+A+152+1_sigmaa.ccp4
+  A71EV2A-x1293:
+    A:
+      '151':
+        aligned_artefacts:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1293/A71EV2A-x1293_A_151_A71EV2A-x0395+A+148+1_artefacts.pdb
+        aligned_diff_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1293/A71EV2A-x1293_A_151_A71EV2A-x0395+A+148+1_diff.ccp4
+        aligned_event_maps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1293/A71EV2A-x1293_A_151_A71EV2A-x0395+A+148+1_event.ccp4
+        aligned_structures:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1293/A71EV2A-x1293_A_151_A71EV2A-x0395+A+148+1.pdb
+        aligned_xmaps:
+          A71EV2A-x0395+A+148+1: upload_1/aligned_files/A71EV2A-x1293/A71EV2A-x1293_A_151_A71EV2A-x0395+A+148+1_sigmaa.ccp4
+canonical_sites: upload_1/canonical_sites.yaml
+conformer_site_transforms: upload_1/conformer_site_transforms.yaml
+conformer_sites: upload_1/conformer_sites.yaml
+connected_components: upload_1/connected_components.yaml
+crystalforms: assemblies.yaml
+dataset_assignments: upload_1/assigned_xtalforms.yaml
+fs_model: upload_1/fs_model.yaml
+ligand_neighbourhood_transforms: upload_1/neighbourhood_transforms.yaml
+ligand_neighbourhoods: upload_1/neighbourhoods.yaml
+reference_alignments:
+  A71_2A_x0090_ref_7_monomer:
+    A71EV2A-x0379+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0379+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0379+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0379+A+147+1_ref.ccp4
+    A71EV2A-x0395+A+148+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0395+A+148+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0395+A+148+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0395+A+148+1_ref.ccp4
+    A71EV2A-x0396+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0396+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0396+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0396+A+147+1_ref.ccp4
+    A71EV2A-x0412+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0412+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0412+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0412+A+147+1_ref.ccp4
+    A71EV2A-x0432+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0432+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0432+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0432+A+147+1_ref.ccp4
+    A71EV2A-x0469+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0469+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0469+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0469+A+147+1_ref.ccp4
+    A71EV2A-x0486+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0486+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0486+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0486+A+147+1_ref.ccp4
+    A71EV2A-x0488+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0488+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0488+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0488+A+147+1_ref.ccp4
+    A71EV2A-x0501+A+152+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0501+A+152+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0501+A+152+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0501+A+152+1_ref.ccp4
+    A71EV2A-x0528+A+201+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0528+A+201+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0528+A+201+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0528+A+201+1_ref.ccp4
+    A71EV2A-x0541+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0541+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0541+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0541+A+147+1_ref.ccp4
+    A71EV2A-x0554+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0554+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0554+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0554+A+147+1_ref.ccp4
+    A71EV2A-x0571+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0571+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0571+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0571+A+147+1_ref.ccp4
+    A71EV2A-x0900+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0900+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0900+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x0900+A+147+1_ref.ccp4
+    A71EV2A-x1068+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x1068+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x1068+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x1068+A+147+1_ref.ccp4
+    A71EV2A-x1068+A+201+1:
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x1068+A+201+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x1068+A+201+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2A-x1068+A+201+1_ref.ccp4
+  long_cell:
+    A71EV2A-x0379+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0379+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0379+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0379+A+147+1_ref.ccp4
+    A71EV2A-x0395+A+148+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0395+A+148+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0395+A+148+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0395+A+148+1_ref.ccp4
+    A71EV2A-x0396+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0396+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0396+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0396+A+147+1_ref.ccp4
+    A71EV2A-x0412+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0412+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0412+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0412+A+147+1_ref.ccp4
+    A71EV2A-x0432+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0432+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0432+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0432+A+147+1_ref.ccp4
+    A71EV2A-x0469+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0469+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0469+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0469+A+147+1_ref.ccp4
+    A71EV2A-x0486+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0486+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0486+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0486+A+147+1_ref.ccp4
+    A71EV2A-x0488+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0488+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0488+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0488+A+147+1_ref.ccp4
+    A71EV2A-x0501+A+152+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0501+A+152+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0501+A+152+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0501+A+152+1_ref.ccp4
+    A71EV2A-x0528+A+201+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0528+A+201+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0528+A+201+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0528+A+201+1_ref.ccp4
+    A71EV2A-x0541+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0541+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0541+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0541+A+147+1_ref.ccp4
+    A71EV2A-x0554+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0554+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0554+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0554+A+147+1_ref.ccp4
+    A71EV2A-x0571+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0571+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0571+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0571+A+147+1_ref.ccp4
+    A71EV2A-x0900+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0900+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0900+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x0900+A+147+1_ref.ccp4
+    A71EV2A-x1068+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x1068+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x1068+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x1068+A+147+1_ref.ccp4
+    A71EV2A-x1068+A+201+1:
+      aligned_artefacts: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x1068+A+201+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x1068+A+201+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/long_cell/long_cell_A71EV2A-x1068+A+201+1_ref.ccp4
+  small_cell:
+    A71EV2A-x0379+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0379+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0379+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0379+A+147+1_ref.ccp4
+    A71EV2A-x0395+A+148+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0395+A+148+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0395+A+148+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0395+A+148+1_ref.ccp4
+    A71EV2A-x0396+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0396+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0396+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0396+A+147+1_ref.ccp4
+    A71EV2A-x0412+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0412+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0412+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0412+A+147+1_ref.ccp4
+    A71EV2A-x0432+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0432+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0432+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0432+A+147+1_ref.ccp4
+    A71EV2A-x0469+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0469+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0469+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0469+A+147+1_ref.ccp4
+    A71EV2A-x0486+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0486+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0486+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0486+A+147+1_ref.ccp4
+    A71EV2A-x0488+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0488+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0488+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0488+A+147+1_ref.ccp4
+    A71EV2A-x0501+A+152+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0501+A+152+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0501+A+152+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0501+A+152+1_ref.ccp4
+    A71EV2A-x0528+A+201+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0528+A+201+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0528+A+201+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0528+A+201+1_ref.ccp4
+    A71EV2A-x0541+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0541+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0541+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0541+A+147+1_ref.ccp4
+    A71EV2A-x0554+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0554+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0554+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0554+A+147+1_ref.ccp4
+    A71EV2A-x0571+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0571+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0571+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0571+A+147+1_ref.ccp4
+    A71EV2A-x0900+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0900+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0900+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x0900+A+147+1_ref.ccp4
+    A71EV2A-x1068+A+147+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x1068+A+147+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x1068+A+147+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x1068+A+147+1_ref.ccp4
+    A71EV2A-x1068+A+201+1:
+      aligned_artefacts: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x1068+A+201+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x1068+A+201+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/small_cell/small_cell_A71EV2A-x1068+A+201+1_ref.ccp4
+reference_structure_transforms: upload_1/reference_structure_transforms.yaml
+source_dir: upload_1
+xtalform_sites: upload_1/xtalform_sites.yaml
