@@ -18,6 +18,7 @@ export JOB_INNER_SCRIPT="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-r
 for i in {0..1}; do
   export BATCH_NUM=$i
   source /data/xchem-fragalysis/kfieseler/run_job.env
+  condor_submit /data/xchem-fragalysis/shared/target_script.condor
   sleep 1m
 done
 
