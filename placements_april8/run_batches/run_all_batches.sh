@@ -24,5 +24,3 @@ for i in {0..1}; do
 done
 
 echo "All batches started"
-
-
