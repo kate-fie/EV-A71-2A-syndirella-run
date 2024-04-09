@@ -15,7 +15,7 @@ echo "Running script $0 as $USER on $HOST which runs $PRETTY_NAME"
 source /data/xchem-fragalysis/kfieseler/.bashrc
 export JOB_INNER_SCRIPT="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/run_batches/run_a_batch.sh"
 
-for i in {0..1}; do
+for i in {2..22}; do
   export BATCH_NUM=$i
   export JOB_INNER_SCRIPT="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/run_batches/run_a_batch.sh"
   source /data/xchem-fragalysis/kfieseler/run_preset_job.env
