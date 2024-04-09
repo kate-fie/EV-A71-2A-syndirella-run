@@ -37,7 +37,7 @@ export OUTPUT_DIR="/data/xchem-fragalysis/kfieseler/A71EV2A_run4/"
 export TEMPLATE="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/fragments/TO_USE/Ax0310_relaxed_apo.pdb";
 export HITS="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/fragments/TO_USE/A71EV2A_combined.sdf";
 export SYNDIRELLA_BASE_PATH="/data/xchem-fragalysis/kfieseler/syndirella";
-export BATCH_SIZE=1
+export BATCH_SIZE=10000
 
 echo "Running syndirella pipeline"
 echo "INPUT: $INPUT"
