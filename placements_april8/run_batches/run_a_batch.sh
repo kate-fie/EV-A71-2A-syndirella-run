@@ -30,6 +30,7 @@ conda activate fragmenstein
 cd /data/xchem-fragalysis/kfieseler/syndirella
 
 pwd;
+export BATCH_NUM=0
 export ROOT_INPUT=/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/batches/
 export INPUT="${ROOT_INPUT}batch${BATCH_NUM}.csv"
 export OUTPUT_DIR="/data/xchem-fragalysis/kfieseler/A71EV2A_run4/TEST_batches/"
@@ -45,7 +46,7 @@ echo "TEMPLATE: $TEMPLATE"
 echo "HITS: $HITS"
 echo "BATCH_SIZE: $BATCH_SIZE"
 
-nice -19 python /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/jobs/run_job.py \
+nice -19 python /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/run_batches/run_job.py \
 --input $INPUT \
 --output $OUTPUT_DIR \
 --template $TEMPLATE \
