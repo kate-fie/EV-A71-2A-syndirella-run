@@ -32,7 +32,7 @@ cd /data/xchem-fragalysis/kfieseler/syndirella
 pwd;
 export BATCH_NUM=0
 export ROOT_INPUT=/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/batches/
-export INPUT="${ROOT_INPUT}batch${BATCH_NUM}.csv"
+export INPUT="${ROOT_INPUT}batch_${BATCH_NUM}.csv"
 export OUTPUT_DIR="/data/xchem-fragalysis/kfieseler/A71EV2A_run4/TEST_batches/"
 export TEMPLATE="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/fragments/TO_USE/Ax0310_relaxed_apo.pdb";
 export HITS="/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/fragments/TO_USE/A71EV2A_combined.sdf";
