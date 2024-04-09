@@ -12,6 +12,7 @@ source /etc/os-release;
 echo "Running script ${0} as $USER in $HOST which runs $PRETTY_NAME"
 # ---------------------------------------------------------------
 # set up shell environment
+export CONDA_PREFIX=/data/xchem-fragalysis/maxwin/conda
 export LD_LIBRARY_PATH=/usr/local/cuda/compat:$CONDA_PREFIX/lib:$LD_LIBRARY_PATH;
 # set up conda environment
 source $CONDA_PREFIX/etc/profile.d/conda.sh
@@ -44,7 +45,7 @@ echo "TEMPLATE: $TEMPLATE"
 echo "HITS: $HITS"
 echo "BATCH_SIZE: $BATCH_SIZE"
 
-nice -19 python /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/run_job.py \
+nice -19 python /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/run_batches/run_job.py \
 --input $INPUT \
 --output $OUTPUT_DIR \
 --template $TEMPLATE \
