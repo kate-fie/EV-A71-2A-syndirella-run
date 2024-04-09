@@ -11,6 +11,7 @@ export HOME=${HOME:-$_CONDOR_SCRATCH_DIR}
 source /etc/os-release;
 echo "Running script ${0} as $USER in $HOST which runs $PRETTY_NAME"
 # ---------------------------------------------------------------
+source /data/xchem-fragalysis/kfieseler/.bashrc
 # set up shell environment
 export CONDA_PREFIX=/data/xchem-fragalysis/maxwin/conda
 export LD_LIBRARY_PATH=/usr/local/cuda/compat:$CONDA_PREFIX/lib:$LD_LIBRARY_PATH;
@@ -23,8 +24,6 @@ echo "which python = " `which python`
 # test conda
 echo -e "\nconda info: "
 conda info
-
-#source /data/xchem-fragalysis/kfieseler/.bashrc
 
 conda activate fragmenstein
 
