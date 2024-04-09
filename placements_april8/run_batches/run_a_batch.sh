@@ -30,7 +30,7 @@ conda activate fragmenstein
 cd /data/xchem-fragalysis/kfieseler/syndirella
 
 pwd;
-export BATCH_NUM=0
+export BATCH_NUM=$1
 export ROOT_INPUT=/data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/placements_april8/batches/
 export INPUT="${ROOT_INPUT}batch_${BATCH_NUM}.csv"
 export OUTPUT_DIR="/data/xchem-fragalysis/kfieseler/A71EV2A_run4/"
