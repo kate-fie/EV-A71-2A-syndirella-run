@@ -16,27 +16,8 @@ There are 140 base compound designs. After placing base compound designs to the 
 
 ## JOBS
 #### GPU:
-- batch0: 21766
-- batch1: 21767
-- batch2: 21768
-- batch3: 21771
-- batch4: 21772
-- batch5: 21773
-- batch6: 21774
-- batch7: 21775
-- batch8: 21776
-- batch9: 21777
-- batch10: 21778
+0 to 14
 
 #### CPU:
-- batch11: 15014
-- batch12: 15015
-- batch13: 15016
-- batch14: 15017
-- batch15: 15018
-- batch16: 15019
-- batch17: 15020
-- batch18: 15021
+15 to 22
 
-### TODO:
-19, 20, 21, 22
