@@ -69,7 +69,7 @@ def main():
     # Load fragments
     hits_path = os.path.join(os.getcwd(), 'A71EV2A_combined.sdf')
     # Load template
-    template_path = os.path.join(os.getcwd(), 'Ax0310a_apo-desolv.pdb')
+    template_path = os.path.join(os.getcwd(), 'Ax0310_apo-desolv.pdb')
     # Initiate laboratory
     lab: Laboratory = setup_Fragmenstein(template_path, 'rdkit_place')
     # Add hits path to df
