@@ -43,7 +43,7 @@ echo '$LD_LIBRARY_PATH = ' $LD_LIBRARY_PATH
 echo "which python = " `which python`
 # test conda
 echo -e "\nconda info: "
-conda activate fragmenstein
+conda activate syndirella
 conda info
 # -------------------------------------------------------
 
