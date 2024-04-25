@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=install_conda
+#SBATCH --job-name=repeats
 #SBATCH --chdir=/opt/xchem-fragalysis-2/kfieseler
 #SBATCH --output=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
 #SBATCH --error=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
