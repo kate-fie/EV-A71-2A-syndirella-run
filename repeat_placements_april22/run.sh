@@ -51,8 +51,8 @@ cd $HOME2/EV-A71-2A-syndirella-run/repeat_placements_april22
 
 pwd;
 
-echo "Running run_rdkit_place.py";
+echo "Running run_place.py";
 
-nice -19 python run_rdkit_place.py
+nice -19 python run_place.py
 
 echo 'COMPLETE'

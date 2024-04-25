@@ -2,7 +2,7 @@
 """
 Testing placement of problem bases on IRIS and locally to compare results.
 """
-from fragmenstein import Laboratory, Wictor, Igor
+from fragmenstein import Laboratory, Wictor, Igor, Victor
 from fragmenstein.laboratory.validator import place_input_validator
 from rdkit import Chem
 import os, logging
@@ -52,6 +52,18 @@ def setup_Fragmenstein(template_path: str,
         Wictor.enable_stdout(logging.INFO)
         Wictor.enable_logfile(os.path.join(os.getcwd(), f'fragmenstein.log'), logging.INFO)
         Laboratory.Victor = Wictor
+    if place == 'pyrosetta_place':
+        if not os.path.exists('pyrosetta_place'):
+            os.mkdir('pyrosetta_place')
+        os.chdir('pyrosetta_place')
+        Victor.work_path = os.getcwd()
+        Victor.monster_throw_on_discard = True
+        Victor.monster_joining_cutoff = 5
+        Victor.quick_reanimation = False
+        Victor.error_to_catch = Exception
+        Victor.enable_stdout(logging.INFO)
+        Victor.enable_logfile(os.path.join(os.getcwd(), f'fragmenstein.log'), logging.INFO)
+        Laboratory.Victor = Victor
     Igor.init_pyrosetta()
     with open(template_path) as fh:
         pdbblock: str = fh.read()
@@ -71,12 +83,12 @@ def main():
     # Load template
     template_path = os.path.join(os.getcwd(), 'Ax0310_relaxed_apo.pdb')
     # Initiate laboratory
-    lab: Laboratory = setup_Fragmenstein(template_path, 'rdkit_place')
+    lab: Laboratory = setup_Fragmenstein(template_path, 'pyrosetta_place')
     # Add hits path to df
     df = add_hits(df, hits_path)
     # Place fragments
     placements: pd.DataFrame = lab.place(place_input_validator(df), n_cores=8, timeout=240)
-    placements.to_csv('iris_rdkit_place.csv')
+    placements.to_csv('iris_pyrosetta_place.csv')
 
 if __name__ == '__main__':
     main()
