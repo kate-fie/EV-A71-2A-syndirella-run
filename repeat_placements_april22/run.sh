@@ -36,7 +36,7 @@ echo "job_pid=$SLURM_TASK_PID job_gid=$SLURM_JOB_GID topology_addr=$SLURM_TOPOLO
 
 # -------------------------------------------------------
 # CONDA
-source /data/xchem-fragalysis/kfieseler/.bashrc
+source /opt/xchem-fragalysis-2/kfieseler/.bashrc
 # debug
 echo '$CONDA_PREFIX = ' $CONDA_PREFIX
 echo '$LD_LIBRARY_PATH = ' $LD_LIBRARY_PATH
