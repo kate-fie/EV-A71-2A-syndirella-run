@@ -35,24 +35,17 @@ echo "Started at $SLURM_JOB_START_TIME"
 echo "job_pid=$SLURM_TASK_PID job_gid=$SLURM_JOB_GID topology_addr=$SLURM_TOPOLOGY_ADDR home=$HOME cwd=$PWD"
 
 # -------------------------------------------------------
-# CONDA
-source /data/xchem-fragalysis/kfieseler/.bashrc
-# debug
-echo '$CONDA_PREFIX = ' $CONDA_PREFIX
-echo '$LD_LIBRARY_PATH = ' $LD_LIBRARY_PATH
-echo "which python = " `which python`
-# test conda
-echo -e "\nconda info: "
-conda info
-conda activate fragmenstein
+
+# Place here whatever...
+
+source /home/aur19345/.bashrc
+export HOME=$DATA/kfieseler
+export CONDA_PREFIX=$DATA/kfieseler/conda
+
+bash $HOME/EV-
+
 # -------------------------------------------------------
 
-cd /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/repeat_placements_april22
+echo 'complete'
 
-pwd;
-
-echo "Running run_rdkit_place.py";
-
-nice -19 python run_rdkit_place.py
-
-echo 'COMPLETE'
+exit 0
