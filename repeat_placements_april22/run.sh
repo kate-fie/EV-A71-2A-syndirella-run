@@ -43,11 +43,11 @@ echo '$LD_LIBRARY_PATH = ' $LD_LIBRARY_PATH
 echo "which python = " `which python`
 # test conda
 echo -e "\nconda info: "
-conda info
 conda activate fragmenstein
+conda info
 # -------------------------------------------------------
 
-cd /data/xchem-fragalysis/kfieseler/EV-A71-2A-syndirella-run/repeat_placements_april22
+cd $HOME2/EV-A71-2A-syndirella-run/repeat_placements_april22
 
 pwd;
 
