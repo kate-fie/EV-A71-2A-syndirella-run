@@ -23,11 +23,6 @@ source /etc/os-release;
 echo "Running script ${0} as $USER in $HOST which runs $PRETTY_NAME"
 # ---------------------------------------------------------------
 source /data/xchem-fragalysis/kfieseler/.bashrc
-# set up shell environment
-export CONDA_PREFIX=/data/xchem-fragalysis/maxwin/conda
-export LD_LIBRARY_PATH=/usr/local/cuda/compat:$CONDA_PREFIX/lib:$LD_LIBRARY_PATH;
-# set up conda environment
-source $CONDA_PREFIX/etc/profile.d/conda.sh
 # debug
 echo '$CONDA_PREFIX = ' $CONDA_PREFIX
 echo '$LD_LIBRARY_PATH = ' $LD_LIBRARY_PATH
