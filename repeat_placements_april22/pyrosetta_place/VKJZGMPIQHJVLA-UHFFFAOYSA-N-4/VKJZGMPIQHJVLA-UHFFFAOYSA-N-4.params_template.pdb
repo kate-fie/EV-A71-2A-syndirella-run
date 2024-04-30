@@ -1,0 +1,42 @@
+COMPND    LIG
+HETATM    1  C1  LIG     0      -2.112   2.302   2.057  1.00  0.00           C  
+HETATM    2  C2  LIG     0      -2.336   1.000   1.328  1.00  0.00           C  
+HETATM    3  O1  LIG     0      -3.446   0.482   1.297  1.00  0.00           O  
+HETATM    4  N1  LIG     0      -1.176   0.533   0.744  1.00  0.00           N  
+HETATM    5  C3  LIG     0      -0.963  -0.637  -0.014  1.00  0.00           C  
+HETATM    6  C4  LIG     0      -2.020  -1.537  -0.254  1.00  0.00           C  
+HETATM    7  C5  LIG     0      -1.843  -2.708  -0.997  1.00  0.00           C  
+HETATM    8  C6  LIG     0      -0.597  -3.008  -1.521  1.00  0.00           C  
+HETATM    9  C7  LIG     0       0.454  -2.130  -1.293  1.00  0.00           C  
+HETATM   10  F1  LIG     0       1.657  -2.433  -1.811  1.00  0.00           F  
+HETATM   11  C8  LIG     0       0.311  -0.940  -0.548  1.00  0.00           C  
+HETATM   12  N2  LIG     0       1.518  -0.197  -0.446  1.00  0.00           N  
+HETATM   13  C9  LIG     0       1.828   0.999   0.160  1.00  0.00           C  
+HETATM   14  O2  LIG     0       1.066   1.717   0.799  1.00  0.00           O  
+HETATM   15  C10 LIG     0       3.305   1.365  -0.021  1.00  0.00           C  
+HETATM   16  O3  LIG     0       3.886   0.744  -1.163  1.00  0.00           O  
+HETATM   17  H1  LIG     0      -3.036   2.610   2.553  1.00  0.00           H  
+HETATM   18  H2  LIG     0      -1.334   2.178   2.816  1.00  0.00           H  
+HETATM   19  H3  LIG     0      -1.818   3.079   1.346  1.00  0.00           H  
+HETATM   20  H4  LIG     0      -0.357   1.124   0.876  1.00  0.00           H  
+HETATM   21  H5  LIG     0      -3.018  -1.354   0.135  1.00  0.00           H  
+HETATM   22  H6  LIG     0      -2.685  -3.378  -1.159  1.00  0.00           H  
+HETATM   23  H7  LIG     0      -0.435  -3.910  -2.101  1.00  0.00           H  
+HETATM   24  H8  LIG     0       2.316  -0.631  -0.917  1.00  0.00           H  
+HETATM   25  H9  LIG     0       3.852   1.037   0.867  1.00  0.00           H  
+HETATM   26  H10 LIG     0       3.401   2.450  -0.125  1.00  0.00           H  
+HETATM   27  H11 LIG     0       3.581   1.244  -1.942  1.00  0.00           H  
+CONECT    1    2   17   18   19
+CONECT    2    3    3    4
+CONECT    4    5   20
+CONECT    5    6    6   11
+CONECT    6    7   21
+CONECT    7    8    8   22
+CONECT    8    9   23
+CONECT    9   10   11   11
+CONECT   11   12
+CONECT   12   13   24
+CONECT   13   14   14   15
+CONECT   15   16   25   26
+CONECT   16   27
+END
