@@ -87,7 +87,7 @@ def main():
     # Add hits path to df
     df = add_hits(df, hits_path)
     # Place fragments
-    placements: pd.DataFrame = lab.place(place_input_validator(df), n_cores=8, timeout=240)
+    placements: pd.DataFrame = lab.place(place_input_validator(df), n_cores=8, timeout=800)
     placements.to_csv('iris_pyrosetta_place.csv')
 
 if __name__ == '__main__':
